@@ -4,12 +4,7 @@
 
 ## 1. Purpose
 
-<!-- Two or three sentences. Why does this capstone exist for you, and what
-     will be true at the end that is not true now? Verifiable, not aspirational.
-     BAD:  "To build an impressive project that shows my skills."
-     GOOD: "To ship one small system that a stranger can clone, run from the
-            README, and extend — and to produce the requirements, design, test,
-            and handoff documents a professional team would expect alongside it." -->
+<To ship a system that can be downloaded, run from the desktop, and generate a packaged file by decompiling the assets of another. This project focuses on extracting resources from certain ROM files and making them available in a packaged soundfont format that users can export to their devices.>
 
 ## 2. Project (filled in Week 2, after the scoping decision)
 
@@ -43,7 +38,7 @@
      BAD:  "I won't over-engineer it."
      GOOD: "I will not build a mobile client. Web only, one browser target." -->
 
-1.
+1. I will not build a mobile client, Web only, one browser target.
 2.
 3.
 4.
