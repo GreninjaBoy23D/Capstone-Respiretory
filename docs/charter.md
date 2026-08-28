@@ -1,6 +1,6 @@
 # Project Charter — <Kevin Xiong>
 
-**Owner:** <Kevin Xiong> · **Course:** Capstone · **Started:** <2026-08-24> · **Last revised:** <2026-08-27>
+**Owner:** <Kevin> · **Course:** Capstone · **Started:** <2026-08-24> · **Last revised:** <2026-08-27>
 
 ## 1. Purpose
 
