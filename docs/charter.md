@@ -16,7 +16,7 @@
 
 | Constraint | My reality |
 |---|---|
-| Hours available per week | |
+| Hours available per week | 15 |
 | Total hours budgeted | 240 |
 | Weeks that are already broken (and where those hours move) | |
 | Machine (OS, RAM, disk) | |
