@@ -1,17 +1,4 @@
-# Project Charter — <your name>
-
-<!--
-  Milestone 1 template. Copy this file into your repository as docs/charter.md,
-  delete the HTML comments, and answer every prompt in your own words.
-
-  This charter is written in Week 1, BEFORE you have chosen an idea. That is
-  deliberate. It is a charter for YOU and for the sixteen weeks — capacity,
-  constraints, non-goals, risks, and the rules you agree to work under. In
-  Week 2, after the scoping decision, you add the project itself in §2 and
-  re-date the file. Never delete the original text; strike it through or keep
-  it in a "superseded" block. A charter with a visible history is worth more
-  than a charter that has always been right.
--->
+# Project Charter — <Kevin Xiong>
 
 **Owner:** <Kevin Xiong> · **Course:** Capstone · **Started:** <2026-08-24> · **Last revised:** <2026-08-27>
 
