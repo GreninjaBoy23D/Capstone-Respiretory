@@ -30,6 +30,10 @@
 
 <!-- Write the acceptance test for the whole semester, as something someone
      else could check without asking you a question. Three to six bullets. -->
+. Functions like how I envisioned it to.
+. Doesn't have a majority of errors.
+. Code is clean and categorized.
+. Project is easy for users to understand.
 
 ## 5. Non-goals — what I will NOT build or do
 
