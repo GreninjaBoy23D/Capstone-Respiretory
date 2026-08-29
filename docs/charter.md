@@ -39,7 +39,7 @@
      GOOD: "I will not build a mobile client. Web only, one browser target." -->
 
 1. I will not build a mobile client, Web only, one browser target.
-2. I will not
+2. I will not 
 3.
 4.
 5.
