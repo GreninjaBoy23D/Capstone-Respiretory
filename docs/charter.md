@@ -4,7 +4,7 @@
 
 ## 1. Purpose
 
-<To ship a system that can be downloaded, run from the desktop, and generate a packaged file by decompiling the assets of another. This project focuses on extracting resources from certain ROM files and making them available in a packaged soundfont format that users can export to their devices.>
+<To ship a system that can be downloaded, run from the desktop, and generate a packaged file by decompiling another file's assets. This project focuses on extracting resources from certain ROM files and making them available in a packaged soundfont format that users can export to their devices.>
 
 ## 2. Project (filled in Week 2, after the scoping decision)
 
@@ -18,13 +18,13 @@
 |---|---|
 | Hours available per week | 15 |
 | Total hours budgeted | 240 |
-| Weeks that are already broken (and where those hours move) | |
+| Weeks that are already broken (and where those hours move) |9 |
 | Machine (OS, RAM, disk) | |
 | Administrator rights on that machine? | |
 | Money I will spend on this project | |
 | Technologies I already know well | |
 | Technologies I am willing to learn (max two) | |
-| Hard external deadlines besides this course | |
+| Hard external deadlines besides this course |November 31st 2026 |
 
 ## 4. Definition of finished
 
@@ -39,7 +39,7 @@
      GOOD: "I will not build a mobile client. Web only, one browser target." -->
 
 1. I will not build a mobile client, Web only, one browser target.
-2.
+2. I will not
 3.
 4.
 5.
