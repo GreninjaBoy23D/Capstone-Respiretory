@@ -39,8 +39,8 @@
      GOOD: "I will not build a mobile client. Web only, one browser target." -->
 
 1. I will not build a mobile client, Web only, one browser target.
-2. I will not 
-3.
+2. I will not make my program use a lot of a user's storage on their device.
+3. I will not make any changes to the function and purpose of this project at any point.
 4.
 5.
 
