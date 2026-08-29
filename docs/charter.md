@@ -19,11 +19,11 @@
 | Hours available per week | 15 |
 | Total hours budgeted | 240 |
 | Weeks that are already broken (and where those hours move) |9 |
-| Machine (OS, RAM, disk) | |
-| Administrator rights on that machine? | |
-| Money I will spend on this project | |
-| Technologies I already know well | |
-| Technologies I am willing to learn (max two) | |
+| Machine (OS, RAM, disk) |Labtop OS|
+| Administrator rights on that machine? |Yes |
+| Money I will spend on this project |0 |
+| Technologies I already know well |Java, and C++ |
+| Technologies I am willing to learn (max two) |Python, Command Prompt  |
 | Hard external deadlines besides this course |November 31st 2026 |
 
 ## 4. Definition of finished
