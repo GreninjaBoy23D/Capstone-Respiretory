@@ -28,14 +28,12 @@
 
 ## 4. Definition of finished
 
-<!-- Write the acceptance test for the whole semester, as something someone
-     else could check without asking you a question. Three to six bullets. -->
 1. Functions like how I envisioned it to.
-2. Doesn't have a majority of errors.
+2. Able to be run without many errors.
 3. Code is clean and categorized.
 4. Project is easy for users to understand.
-5. 
-6. 
+5. Time spent on the project is utilized properly.
+6. Tested, improved, and ready for users.
 
 ## 5. Non-goals — what I will NOT build or do
 
