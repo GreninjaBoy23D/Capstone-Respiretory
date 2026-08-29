@@ -48,8 +48,8 @@
 
 | # | Risk | Likelihood (L/M/H) | Impact (L/M/H) | Early warning sign | What I will do |
 |---|---|---|---|---|---|
-| R1 | | | | | |
-| R2 | | | | | |
+| R1 |Last Minute Commitment|L|M|Getting closer towards the deadline|Find the time early to do|
+| R2 |Unable to find the time needed to focus on project|M|H|Noticing that not much progress have been done|Allocate time to work on the project day to day|
 | R3 | | | | | |
 
 ## 7. Working agreement
