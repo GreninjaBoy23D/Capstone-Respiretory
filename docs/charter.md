@@ -50,7 +50,7 @@
 |---|---|---|---|---|---|
 | R1 |Last Minute Commitment|L|M|Getting closer towards the deadline|Find the time early to do|
 | R2 |Unable to find the time needed to focus on project|M|H|Noticing that not much progress have been done|Allocate time to work on the project day to day|
-| R3 | | | | | |
+| R3 |Having to deal with knowledge beyond my level of skill|L|L|If I get stuck or confused on how to solve a problem|Try and research or use the knowledge of the readings to guide me|
 
 ## 7. Working agreement
 
