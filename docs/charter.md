@@ -45,8 +45,8 @@
 1. I will not build a mobile client; web only, one browser target.
 2. I will not make my program use a lot of a user's storage on their device.
 3. I will not make any major changes to the function and purpose of this project at any point.
-4. 
-5.
+4. I will learn at most the two technologies that are new to me. The third gets cut or replaced with something I already know.
+5. I will not add additional features, data stores, and queres to my project. One database, direct conversions.
 
 ## 6. Risks to me finishing
 
