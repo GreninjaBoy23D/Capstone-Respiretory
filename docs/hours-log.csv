@@ -1,6 +1,6 @@
 date,start,end,hours,phase,hat,task,estimate_hours,blocked_hours,notes
 2026-08-24,19:00,21:15,3.0,inception,project-manager,create repo + read chapter 1,underestimated .gitignore research
 2026-08-26,20:00,21:00,2.00,inception,project-manager, thought through and created charter.md,1.00,0.00,
-2026-08-27,17:00,18:30,2.50,inception,project-manager, on-page quiz + created hours-log.csv,1.50,0.00,
-2026-08-28,17:30,20:30,3.00,inception,project-manager,draft charter: purpose + constraints,2.00,0.50,blocked 30m on institution GitHub SSO
-2026-08-2909:00,10:30,1.50,inception,release-engineer,clean-clone repo into a fresh cloud environment,1.00,0.00,worked first try
+2026-08-27,17:00,18:30,2.50,inception,project-manager, drafted charter + created hours-log.csv,1.50,0.00,
+2026-08-28,17:30,20:30,3.00,inception,project-manager,on-page quiz + created ai-usage.md,2.00,0.50,blocked 30m on institution GitHub SSO
+2026-08-2909:00,10:30,2.0,inception,release-engineer,drafted houors-log.csv + created and drafted README.md,1.00,0.00,worked first try
