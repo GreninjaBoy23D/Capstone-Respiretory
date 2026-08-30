@@ -18,11 +18,11 @@ I decide, I verify, and I am accountable for everything in this repository.
 cannot explain a decision in this repository in my own words, under questions,
 without the tool in front of me, it does not go in.
 
-### Possible Tools I have decided to use
+### Tools I have decided to use
 
 | Tool / product | Model or version, as best I can name it | What I will use it for | What I will never use it for |
 |---|---|---|---|
-| ChatGPT|OpenAI's GPT-5.6 |Making suggestions on problems that I don't fully understand |Having it generate or do most of the work |
+| ChatGPT|OpenAI's GPT-5.6 |To help with suggestions on problems that I don't fully understand |Having it generate or do most of the work |
 
 ### Zones
 
