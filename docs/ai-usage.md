@@ -7,7 +7,7 @@
   This file is a required artifact in the Week 16 submission.
 -->
 
-**Owner:** <name> · **Policy set:** <YYYY-MM-DD> · **Last entry:** <YYYY-MM-DD>
+**Owner:** <Kevin Xiong> · **Policy set:** <2026-08-24> · **Last entry:** <2026-08-30>
 
 ## Policy
 
