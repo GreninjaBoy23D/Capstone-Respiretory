@@ -1,4 +1,4 @@
-# Idea Canvas — Candidate <A>
+# Idea Canvas — Candidate < A >
 
 **Candidate name:** <short, memorable, not a technology>
 **Date started:** <YYYY-MM-DD>   **Well it came from:** <work / campus / hobby / open source / client / research gap>
