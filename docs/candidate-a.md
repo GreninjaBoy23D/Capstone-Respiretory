@@ -27,11 +27,11 @@ which falls short because of the fact that there are a few applications that do 
 
 | # | Feature (one vertical slice each) | Hours |
 |---|---|---:|
-| 1 | The ability to choose specific instruments in the Soundfont. |1 |
-| 2 |The ability to mute certain instruments or not in OST/MIDI files. |1 |
-| 3 |The ability to mute voice clips from ROM's |1 |
-| 4 |The ability to edit notes for a Soundfont |1 |
-| 5 |The ability for fair use or simplistic labeling. |1 |
+| 1 | The ability to choose specific instruments in the Soundfont. | |
+| 2 |The ability to mute certain instruments or not in OST/MIDI files. | |
+| 3 |The ability to mute voice clips from ROM's | |
+| 4 |The ability to edit notes for a Soundfont | |
+| 5 |The ability for fair use or simplistic labeling. | |
 | | Walking skeleton + CI | |
 | | Deployment + clean-machine test | |
 | | **Construction total** | |
@@ -54,7 +54,7 @@ testing and documentation, which are graded.
 
 | Gate | Verdict | Evidence (dated) |
 |---|---|---|
-| **Build** — novelty load ≤ 2 | pass / fail | <technology list, each marked known/new> |
+| **Build** — novelty load ≤ 2 | fail | < All of the technologies are new to the candidate. > |
 | **Get** — every dependency exercised for real | pass / fail | <status code, saved response, date> |
 | **Ship** — a named deployment target, terms read | pass / fail | <target + pricing page read on YYYY-MM-DD> |
 | **Show** — a stranger sees it work in 10 minutes | pass / fail | <the ten steps, written down> |
