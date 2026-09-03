@@ -55,9 +55,9 @@ testing and documentation, which are graded.
 | Gate | Verdict | Evidence (dated) |
 |---|---|---|
 | **Build** — novelty load ≤ 2 | fail | < All of the technologies are new to the candidate. > |
-| **Get** — every dependency exercised for real | pass / fail | <status code, saved response, date> |
-| **Ship** — a named deployment target, terms read | pass / fail | <target + pricing page read on YYYY-MM-DD> |
-| **Show** — a stranger sees it work in 10 minutes | pass / fail | <the ten steps, written down> |
+| **Get** — every dependency exercised for real | pass / fail | |
+| **Ship** — a named deployment target, terms read | pass / fail |  |
+| **Show** — a stranger sees it work in 10 minutes | pass / fail |  |
 
 **Technologies:** <Java> (new) · <C++> (new) · <Pyhton> (new)
 **Novelty load:** <count of "new">
