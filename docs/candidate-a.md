@@ -14,8 +14,6 @@ which costs the ammount of storage necesary to keep the file in.
 Today there are not many workarounds for getting the soundfont files, but there are a few applications to convert the ROMS into Soundfonts.
 which falls short because of the fact that there are a few applications that do convert a majority of ROM files.
 
-> If the `which costs` line has no number in it, stop and go get one.
-
 ## 2. Evidence a user exists
 
 - **Person spoken to:** <AX>
