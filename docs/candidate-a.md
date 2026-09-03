@@ -1,13 +1,13 @@
 # Idea Canvas — Candidate < A >
 
-**Candidate name:** <short, memorable, not a technology>
-**Date started:** <YYYY-MM-DD>   **Well it came from:** <work / campus / hobby / open source / client / research gap>
+**Candidate name:** <Arron Xiong>
+**Date started:** <2026-09-03>   **Well it came from:** <Campus>
 
 ---
 
 ## 1. Problem statement
 
-For              <a specific user, described concretely enough that you could find one>
+For              <Someone who wants to convert ROM files into SoundFont files,>
 who              <the situation they are in when the pain happens>
 the problem is   <what goes wrong, in their words>
 which costs      <a NUMBER — dollars, minutes, errors, missed items, per week/month>
