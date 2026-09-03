@@ -42,14 +42,14 @@ testing and documentation, which are graded.
 ## 4. Out of scope — will NOT be built
 
 <
-1.  
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
+1. Something that doesn't export stuff like videos or actual OST.
+2. A mobile app, browser/laptop only.
+3. Notifications or use of email.
+4. Use of a device camera.
+5. Anything with a password.
+6. Nothing regarding a user's personal information.
+7. Needing to import other files for the converter such as Image files.
+8. Something that takes a long time to boot/install/set up.
 
 >
 
