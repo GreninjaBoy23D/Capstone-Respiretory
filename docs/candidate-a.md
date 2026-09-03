@@ -7,24 +7,23 @@
 
 ## 1. Problem statement
 
-For              <Someone who wants to convert ROM files into SoundFont files,>
-who              <the situation they are in when the pain happens>
-the problem is   <what goes wrong, in their words>
-which costs      <a NUMBER — dollars, minutes, errors, missed items, per week/month>
-Today they       <the workaround that already exists>
-which falls short because  <the specific reason the workaround fails>
+For              <Video game composers and fan-composers>
+who              <want to use a specific soundfont for making music>
+the problem is   <that the sound files are hidden withen the files of a ROM>
+which costs      <the ammount of storage necesary to keep the file in>
+Today they       <are not many workarounds for getting the soundfont files, but there are a few applications to convert the ROMS into Soundfonts.>
+which falls short because  <of the fact that there are a few applications that do convert a majority of ROM files.>
 
 > If the `which costs` line has no number in it, stop and go get one.
 
 ## 2. Evidence a user exists
 
-- **Person spoken to:** <initials or role — not "people in general">
-- **Date and length:** <YYYY-MM-DD, minutes>
+- **Person spoken to:** <AX>
+- **Date and length:** <2026-09-03, minutes>
 - **Three verbatim quotes:**
-  1. "<exactly what they said>"
-  2. "<exactly what they said>"
-  3. "<exactly what they said>"
-- **The workaround they already use:** <...>
+  1. "<I don't recall anything>"
+  2. "<There would be some>"
+- **The workaround they already use:** <No, not in particular.>
 - **Full write-up:** `docs/interviews/<YYYY-MM-DD>-<initials>.md`
 
 ## 3. Candidate scope (Must features only)
