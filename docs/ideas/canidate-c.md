@@ -19,18 +19,18 @@ which falls short because some apps require specific ROM's, instead of being abl
 - **Person spoken to:** <KX>
 - **Date and length:** <2026-09-03>
 - **Three verbatim quotes:**
-  1. "<Some composers use soundfonts from games to compose soundtracks for stuff like video games.>"
-  2. "<Some people use soundfonts to compose completely original tracks>"
-- **The workaround they already use:** <Soundfont Websites and Respiretories>
+  1. "Some composers use soundfonts from games to compose soundtracks for stuff like video games."
+  2. "Some people use soundfonts to compose completely original tracks"
+- **The workaround they already use:** Soundfont Websites and Respiretories
 
 ## 3. Candidate scope (Must features only)
 
 | # | Feature (one vertical slice each) | Hours |
 |---|---|---:|
-| 1 |Able to take any ROM file and extract audio samples | |
-| 2 |Able to automatically loop audio samples | |
-| 3 |Able to compile the samples into a SounFont (or SF2) file format | |
-| 4 |Able to export SounFont files into computer| |
+| 1 | Able to take any ROM file and extract audio samples | |
+| 2 | Able to automatically loop audio samples | |
+| 3 | Able to compile the samples into a SounFont (or SF2) file format | |
+| 4 | Able to export SounFont files into computer| |
 | | Walking skeleton + CI | |
 | | Deployment + clean-machine test | |
 | | **Construction total** | |
