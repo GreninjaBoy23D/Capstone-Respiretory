@@ -1,6 +1,6 @@
 # Scoping Decision — <Project Name>
 
-**Author:** <Kevin Xiong>  ·  **Date:** <2026-09-03>  ·  **Course week:** 2
+**Author:** Kevin Xiong  ·  **Date:** <2026-09-03>  ·  **Course week:** 2
 
 ---
 
