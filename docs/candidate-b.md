@@ -10,10 +10,8 @@
 For              <One that will takes ROMS and turn them into Soundfonts. >
 the problem is   <If youre taking the sounds from a specific ROM, and converting them, as it sees potential copyright issues, and Soundrips is used to sell a product.>
 which costs      <A hard time selling your product if a user uses the soundfont>
-Today they       <have >
-which falls short because  <A lot of companies try to safeguard ROM file>
-
-> If the `which costs` line has no number in it, stop and go get one.
+Today they       <are able to freely use Soundfonts that were converted from ROMS.>
+which falls short because  <A lot of companies try to safeguard ROM files.>
 
 ## 2. Evidence a user exists
 
