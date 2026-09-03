@@ -1,10 +1,6 @@
 # Scoping Decision — <Project Name>
 
-Copy this into your repository as `docs/scoping-decision.md`. Two pages is plenty.
-Every sentence you write here must be checkable by someone who is not you: a number,
-a date, a quote, or a named condition. Delete the bracketed guidance as you fill it in.
-
-**Author:** <your name>  ·  **Date:** <YYYY-MM-DD>  ·  **Course week:** 2
+**Author:** <Kevin Xiong>  ·  **Date:** <2026-09-03>  ·  **Course week:** 2
 
 ---
 
