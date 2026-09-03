@@ -1,4 +1,4 @@
-# Idea Canvas — Candidate <C>
+# Idea Canvas — Candidate < C >
 
 Copy this file once per candidate into your repository as `docs/ideas/candidate-a.md`
 (then `-b`, `-c`). Fill every field. A blank field is an answer: it means you do not
