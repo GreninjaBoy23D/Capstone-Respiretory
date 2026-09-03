@@ -19,7 +19,7 @@ which falls short because A lot of companies try to safeguard ROM files.
 - **Date and length:** <2026-09-03, minutes>
 - **Three verbatim quotes:**
   1. "<I could see even myself using that, I have used a plugin in GarageBand.>"
-  2. "<I could see that being usefull if you want a certain sounds.>"
+  2. "<It could see that being useful if you want a certain sounds.>"
 - **The workaround they already use:** <GarageBand>
 
 ## 3. Candidate scope (Must features only)
