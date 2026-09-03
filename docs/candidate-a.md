@@ -41,7 +41,17 @@ testing and documentation, which are graded.
 
 ## 4. Out of scope — will NOT be built
 
-<At least eight, by name. This list is worth more than the one above.>
+<
+1.  
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+
+>
 
 ## 5. Feasibility screen
 
