@@ -1,14 +1,13 @@
 # Idea Canvas — Candidate < C >
 
-**Candidate name:** <short, memorable, not a technology>
+**Candidate name:** <Nathan DiCarlo>
 **Date started:** <YYYY-MM-DD>   **Well it came from:** <work / campus / hobby / open source / client / research gap>
 
 ---
 
 ## 1. Problem statement
 
-For              <a specific user, described concretely enough that you could find one>
-who              <the situation they are in when the pain happens>
+For              <General Music makers would use Soundfont files to create music>
 the problem is   <what goes wrong, in their words>
 which costs      <a NUMBER — dollars, minutes, errors, missed items, per week/month>
 Today they       <the workaround that already exists>
@@ -18,7 +17,7 @@ which falls short because  <the specific reason the workaround fails>
 
 ## 2. Evidence a user exists
 
-- **Person spoken to:** <initials or role — not "people in general">
+- **Person spoken to:** <ND>
 - **Date and length:** <YYYY-MM-DD, minutes>
 - **Three verbatim quotes:**
   1. "<exactly what they said>"
