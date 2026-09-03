@@ -1,6 +1,6 @@
 # Idea Canvas — Candidate < A >
 
-**Candidate name:** <Arron Xiong>
+**Candidate name:** <Aaron Xiong>
 **Date started:** <2026-09-03>   **Well it came from:** <Campus>
 
 ---
@@ -27,11 +27,11 @@ which falls short because of the fact that there are a few applications that do 
 
 | # | Feature (one vertical slice each) | Hours |
 |---|---|---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | The ability to choose specific instruments in the Soundfont. |1 |
+| 2 |The ability to mute certain instruments or not in OST/MIDI files. |1 |
+| 3 |The ability to mute voice clips from ROM's |1 |
+| 4 |The ability to edit notes for a Soundfont |1 |
+| 5 |The ability for fair use or simplistic labeling. |1 |
 | | Walking skeleton + CI | |
 | | Deployment + clean-machine test | |
 | | **Construction total** | |
