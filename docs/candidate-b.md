@@ -1,30 +1,28 @@
 # Idea Canvas — Candidate < B >
 
-**Candidate name:** <short, memorable, not a technology>
-**Date started:** <YYYY-MM-DD>   **Well it came from:** <work / campus / hobby / open source / client / research gap>
+**Candidate name:** <Jaiden Heiner>
+**Date started:** <2026-09-03>   **Well it came from:** <On-Campus>
 
 ---
 
 ## 1. Problem statement
 
-For              <a specific user, described concretely enough that you could find one>
-who              <the situation they are in when the pain happens>
-the problem is   <what goes wrong, in their words>
-which costs      <a NUMBER — dollars, minutes, errors, missed items, per week/month>
-Today they       <the workaround that already exists>
-which falls short because  <the specific reason the workaround fails>
+For              <One that will takes ROMS and turn them into Soundfonts. >
+the problem is   <If youre taking the sounds from a specific ROM, and converting them, as it sees potential copyright issues, and Soundrips is used to sell a product.>
+which costs      <A hard time selling your product if a user uses the soundfont>
+Today they       <have >
+which falls short because  <A lot of companies try to safeguard ROM file>
 
 > If the `which costs` line has no number in it, stop and go get one.
 
 ## 2. Evidence a user exists
 
-- **Person spoken to:** <initials or role — not "people in general">
-- **Date and length:** <YYYY-MM-DD, minutes>
+- **Person spoken to:** <JH">
+- **Date and length:** <2026-09-03, minutes>
 - **Three verbatim quotes:**
-  1. "<exactly what they said>"
-  2. "<exactly what they said>"
-  3. "<exactly what they said>"
-- **The workaround they already use:** <...>
+  1. "<I could see even myself using that, I have used a plugin in GarageBand.>"
+  2. "<I could see that being usefull if you want a certain sounds.>"
+- **The workaround they already use:** <GarageBand>
 - **Full write-up:** `docs/interviews/<YYYY-MM-DD>-<initials>.md`
 
 ## 3. Candidate scope (Must features only)
