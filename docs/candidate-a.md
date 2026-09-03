@@ -59,7 +59,7 @@ testing and documentation, which are graded.
 | **Ship** — a named deployment target, terms read | pass / fail |  |
 | **Show** — a stranger sees it work in 10 minutes | pass / fail |  |
 
-**Technologies:** <Java> (new) , <C++> (new) , <Pyhton> (new)
+**Technologies:** Java (new) , C++ (new) , Pyhton (new)
 **Novelty load:** <count of "new">
 
 ## 6. The one hard part
