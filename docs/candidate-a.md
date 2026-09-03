@@ -8,11 +8,11 @@
 ## 1. Problem statement
 
 For Video game composers and fan-composers.
-who              < want to use a specific soundfont for making music >
-the problem is   <that the sound files are hidden withen the files of a ROM>
-which costs      <the ammount of storage necesary to keep the file in>
-Today they       <are not many workarounds for getting the soundfont files, but there are a few applications to convert the ROMS into Soundfonts.>
-which falls short because  <of the fact that there are a few applications that do convert a majority of ROM files.>
+who want to use a specific soundfont for making music.
+the problem is that the sound files are hidden withen the files of a ROM.
+which costs the ammount of storage necesary to keep the file in.
+Today there are not many workarounds for getting the soundfont files, but there are a few applications to convert the ROMS into Soundfonts.
+which falls short because of the fact that there are a few applications that do convert a majority of ROM files.
 
 > If the `which costs` line has no number in it, stop and go get one.
 
