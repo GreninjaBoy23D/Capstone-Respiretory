@@ -21,7 +21,6 @@ which falls short because A lot of companies try to safeguard ROM files.
   1. "<I could see even myself using that, I have used a plugin in GarageBand.>"
   2. "<I could see that being usefull if you want a certain sounds.>"
 - **The workaround they already use:** <GarageBand>
-- **Full write-up:** `docs/interviews/<YYYY-MM-DD>-<initials>.md`
 
 ## 3. Candidate scope (Must features only)
 
