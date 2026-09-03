@@ -22,7 +22,6 @@ which falls short because of the fact that there are a few applications that do 
   1. "<I don't recall anything>"
   2. "< There would be some. >"
 - **The workaround they already use:** <No, not in particular.>
-- **Full write-up:** `docs/interviews/<YYYY-MM-DD>-<initials>.md`
 
 ## 3. Candidate scope (Must features only)
 
