@@ -16,7 +16,6 @@ which falls short because some apps require specific ROM's, instead of being abl
 
 ## 2. Evidence a user exists
 
-- **Person spoken to:** <KX>
 - **Date and length:** <2026-09-03>
 - **Three verbatim quotes:**
   1. "Some composers use soundfonts from games to compose soundtracks for stuff like video games."
