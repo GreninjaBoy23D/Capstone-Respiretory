@@ -1,7 +1,7 @@
 # Idea Canvas — Candidate < C >
 
 **Candidate name:** <Kevin Xiong>
-**Date started:** <YYYY-MM-DD>   **Well it came from:** <Client>
+**Date started:** <2026-09-03>   **Well it came from:** <Client>
 
 ---
 
