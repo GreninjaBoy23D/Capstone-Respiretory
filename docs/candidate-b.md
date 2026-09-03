@@ -52,10 +52,10 @@ testing and documentation, which are graded.
 
 | Gate | Verdict | Evidence (dated) |
 |---|---|---|
-| **Build** — novelty load ≤ 2 | pass / fail | <technology list, each marked known/new> |
-| **Get** — every dependency exercised for real | pass / fail | <status code, saved response, date> |
-| **Ship** — a named deployment target, terms read | pass / fail | <target + pricing page read on YYYY-MM-DD> |
-| **Show** — a stranger sees it work in 10 minutes | pass / fail | <the ten steps, written down> |
+| **Build** — novelty load ≤ 2 | pass / fail |  |
+| **Get** — every dependency exercised for real | pass / fail |  |
+| **Ship** — a named deployment target, terms read | pass / fail |  |
+| **Show** — a stranger sees it work in 10 minutes | pass / fail |  |
 
 **Technologies:** <Java> (known/new) · <C++> (known/new) · <Python> (known/new)
 **Novelty load:** <count of "new">
@@ -68,12 +68,12 @@ Using Imported Files: It takes a lot of knowledge to write code that lets you im
 
 | Criterion | (w) | Score | Weighted |
 |---|---:|---:|---:|
-| Evidence a user exists | 3 | | |
+| Evidence a user exists | 3 | 5 | 5 |
 | Fits ~45 hours of features | 3 | | |
 | Novelty load | 2 | | |
 | Dependencies verified | 2 | | |
 | Demonstrable in ten minutes | 1 | | |
-| **Total (max 55)** | | | |
+| **Total (max 55)** | | 5 | 5 |
 
 ## 8. If this candidate is rejected
 
