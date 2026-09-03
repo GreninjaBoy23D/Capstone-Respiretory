@@ -21,7 +21,7 @@ which falls short because some apps require specific ROM's, instead of being abl
 - **Three verbatim quotes:**
   1. "Some composers use soundfonts from games to compose soundtracks for stuff like video games."
   2. "Some people use soundfonts to compose completely original tracks"
-- **The workaround they already use:** < Soundfont Websites and Respiretories >
+- **The workaround they already use:** Soundfont Websites and Respiretories.
 
 ## 3. Candidate scope (Must features only)
 
