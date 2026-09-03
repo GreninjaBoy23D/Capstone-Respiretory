@@ -29,11 +29,9 @@ which falls short because  <A lot of companies try to safeguard ROM file>
 
 | # | Feature (one vertical slice each) | Hours |
 |---|---|---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 |Getting the soundfont by ROM file conversion | |
+| 2 |Being able to use the soundfont file under fair use. | |
+| 3 |Using the Soundfont files for certain sounds. | |
 | | Walking skeleton + CI | |
 | | Deployment + clean-machine test | |
 | | **Construction total** | |
