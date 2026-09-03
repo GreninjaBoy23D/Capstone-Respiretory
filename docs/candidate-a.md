@@ -20,7 +20,7 @@ which falls short because of the fact that there are a few applications that do 
 - **Date and length:** <2026-09-03, minutes>
 - **Three verbatim quotes:**
   1. "<I don't recall anything>"
-  2. "<There would be some>"
+  2. "< There would be some. >"
 - **The workaround they already use:** <No, not in particular.>
 - **Full write-up:** `docs/interviews/<YYYY-MM-DD>-<initials>.md`
 
