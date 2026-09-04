@@ -45,8 +45,14 @@ first when you fall behind.>
 
 ## 5. Out of scope — will not be built
 
-<At least eight items, by name, separated by " · ". Be specific: "notifications",
-not "extra features". This is the section your Week-10 self will read.>
+1. Something that doesn't export stuff like videos or actual OST.
+2. A mobile app, browser/laptop only.
+3. Notifications or use of email.
+4. Use of a device camera.
+5. Anything with a password.
+6. Nothing regarding a user's personal information.
+7. Needing to import other files for the converter such as Image files.
+8. Something that takes a long time to boot/install/set up.
 
 ## 6. Accepted tradeoffs
 
@@ -55,10 +61,8 @@ Name the cost. Name why you accepted it. Name what would make you revisit.>
 
 ## 7. Rejected candidates
 
-**Rejected: <name>.** <Which gate it failed, with the number or the quote that killed
+**Rejected: Aaron Xiong.** <Which gate it failed, with the number or the quote that killed
 it, and the condition for revisiting — or "closed, not deferred".>
-
-**Rejected: <name>.** <Same.>
 
 ## 8. Hour budget, reconciled
 
@@ -80,8 +84,7 @@ you cut to make it fit?>
 
 ## 9. The one hard part
 
-<Name exactly one. Two sentences on what makes it hard. This is what you will talk
-about for ten minutes in Week 16.>
+Using Imported Files: It takes a lot of knowledge to write code that lets you import a file. Not only that, but also having to go through a list of the compatibility of the specific ROM files as well.
 
 ## 10. Risks and the scope-cut trigger
 
