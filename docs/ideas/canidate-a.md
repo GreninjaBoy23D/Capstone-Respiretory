@@ -70,9 +70,9 @@ Using Imported Files: It takes a lot of knowledge to write code that lets you im
 
 | Criterion | (w) | Score | Weighted |
 |---|---:|---:|---:|
-| Evidence a user exists | 3 | | |
+| Evidence a user exists | 3 | 3 | 3 |
 | Fits ~45 hours of features | 3 | | |
 | Novelty load | 2 | | |
 | Dependencies verified | 2 | | |
 | Demonstrable in ten minutes | 1 | | |
-| **Total (max 55)** | | | |
+| **Total (max 55)** | | 3 | 3 |
