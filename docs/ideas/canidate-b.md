@@ -56,13 +56,12 @@ testing and documentation, which are graded.
 | **Ship** — a named deployment target, terms read | pass / fail | <target + pricing page read on YYYY-MM-DD> |
 | **Show** — a stranger sees it work in 10 minutes | pass / fail | <the ten steps, written down> |
 
-**Technologies:** <name> (known/new) · <name> (known/new) · <name> (known/new)
+**Technologies:** <Java> (known/new) · <Python> (known/new) · <C++> (known/new)
 **Novelty load:** <count of "new">
 
 ## 6. The one hard part
 
-<Name exactly one. Say what makes it hard in two sentences. If you can name three,
-you have three projects.>
+Using Imported Files: It takes a lot of knowledge to write code that lets you import a file. Not only that, but also having to go through a list of the compatibility of the specific ROM files as well.
 
 ## 7. Scorecard (1–5 each; weight in parentheses)
 
