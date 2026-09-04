@@ -6,9 +6,12 @@
 
 ## 1. Problem
 
-<One paragraph in the §2.1 frame: the user, the situation, what goes wrong, the cost
-with a number, the existing workaround, and why the workaround fails. No technology
-nouns in this paragraph. None.>
+For Composers and Music Creators.
+who want to use Soundfonts from games to use as digital instruments for music.
+the problem is there is no easy way to extract ROM files and convert samples to Soundfonts.
+which costs time and efficency (around no longer than 1-3 hours), not only to mention potential copyright issues.
+Today there are some apps that are specifically made to make SoundFont's from ROM files.
+which falls short because some apps require specific ROM's, instead of being able to use any ROM file with samples.
 
 ## 2. Evidence a user exists
 
