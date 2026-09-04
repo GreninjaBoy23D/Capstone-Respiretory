@@ -25,8 +25,8 @@ Interviewed <JH/Candidate> on <2026-09-03>, <40> minutes, past-tense questions o
 | # | Feature | Hours |
 |---|---|---:|
 | 1 | Getting the soundfont by ROM file conversion | |
-| 2 | Being able to use the soundfont file under fair use. | |
-| 3 | Using the Soundfont files for certain sounds. | |
+| 2 | Being able to use the soundfont file under fair use. (Could possibly die in Week 8 if falling behind)| |
+| 3 | Using the Soundfont files for certain sounds. (Could possibly die in Week 8 if falling behind)| |
 | | **Feature total** | |
 | | Walking skeleton + continuous integration | |
 | | Deployment + clean-machine test | |
@@ -37,7 +37,7 @@ Plan: 60 hours. Hard ceiling: 75. My number: <N>. The hours dependeing if on the
 ## 4. Should features — built only if there is room
 
 Able to take any ROM file and extract audio samples.
-Able to automatically loop audio samples (potentially cut first).
+Able to automatically loop audio samples (potentially cut first, or die at Week 8 if falling behind).
 Able to compile the samples into a SounFont (or SF2) file format.
 Able to export SounFont files to a computer.
 
