@@ -58,7 +58,7 @@
 
 ## 7. Working agreement
 
-- **Sessions:** <days and times you are blocking on a real calendar>
+- **Sessions:** Week 1 Creation, Week 2 Session (Interviewing Candidates, 09-03-2026).
 - **Logging:** every session ends with a row in `docs/hours-log.csv`, written before I close the laptop.
 - **Board:** work-in-progress limit of <n>; nothing moves to Done without its stopping condition met.
 - **Commits:** requirement identifier first in the subject line; one logical change per commit.
