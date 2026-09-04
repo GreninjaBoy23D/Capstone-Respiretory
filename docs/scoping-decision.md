@@ -89,11 +89,11 @@ Using Imported Files: It takes a lot of knowledge to write code that lets you im
 |Unable to find the time needed to focus on project|M|H|Noticing that not much progress have been done|
 |Having to deal with knowledge beyond my level of skill|L|L|If I get stuck or confused on how to solve a problem|
 
-**Scope-cut trigger.** If <a checkable condition> by <a real date>, I will cut
+**Scope-cut trigger.** If <a checkable condition> by <a real date>, I will cut.
 <feature> first, then <feature>. Decided now, in advance, so I do not have to decide
 it while panicking.
 
 ---
 
-**Signed:** <Kevin Xiong>, <2026-09-03>
+**Signed:** Kevin Xiong, <2026-09-03>
 **AI use for this document:** <None>
