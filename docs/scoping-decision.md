@@ -32,7 +32,7 @@ Interviewed <JH/Candidate> on <2026-09-03>, <40> minutes, past-tense questions o
 | | Deployment + clean-machine test | |
 | | **Construction total** | |
 
-Plan: 60 hours. Hard ceiling: 75. My number: <N>. The hours dependeing if on the Planned or Hard Ceiling could be a benefit to me since it could be enough or a lot of time for me to work on the projecet.
+Plan: 60 hours. Hard ceiling: 75. My number: <N>. The hours dependeing if on the Planned or Hard Ceiling could be a benefit to me since it could be enough or a lot of time for me to work on the project.
 
 ## 4. Should features — built only if there is room
 
