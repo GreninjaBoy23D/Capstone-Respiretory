@@ -58,8 +58,9 @@ The ability for this respiratory to be able to automatically loop samples for th
 
 ## 7. Rejected candidates
 
-**Rejected: Aaron Xiong.** <Which gate it failed, with the number or the quote that killed
-it, and the condition for revisiting — or "closed, not deferred".>
+**Rejected: Aaron Xiong.** Gate is now closed, and BUILT is a fail.
+
+**Rejected: .** Gate is now closed, in favor of the chosen candidate.
 
 ## 8. Hour budget, reconciled
 
