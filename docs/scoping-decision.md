@@ -27,11 +27,9 @@ competitive scan of at least three existing tools. Do not invent a user.>
 
 | # | Feature | Hours |
 |---|---|---:|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | Getting the soundfont by ROM file conversion | |
+| 2 | Being able to use the soundfont file under fair use. | |
+| 3 | Using the Soundfont files for certain sounds. | |
 | | **Feature total** | |
 | | Walking skeleton + continuous integration | |
 | | Deployment + clean-machine test | |
