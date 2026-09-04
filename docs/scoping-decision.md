@@ -85,8 +85,9 @@ Using Imported Files: It takes a lot of knowledge to write code that lets you im
 
 | Risk | Likelihood | What it costs me | Early warning sign |
 |---|---|---|---|
-| | | | |
-| | | | |
+|Last Minute Commitment | L | M | Getting closer towards the deadline |
+|Unable to find the time needed to focus on project|M|H|Noticing that not much progress have been done|
+|Having to deal with knowledge beyond my level of skill|L|L|If I get stuck or confused on how to solve a problem|
 
 **Scope-cut trigger.** If <a checkable condition> by <a real date>, I will cut
 <feature> first, then <feature>. Decided now, in advance, so I do not have to decide
