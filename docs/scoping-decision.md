@@ -15,12 +15,10 @@ which falls short because some apps require specific ROM's, instead of being abl
 
 ## 2. Evidence a user exists
 
-Interviewed <initials / role> on <YYYY-MM-DD>, <N> minutes, past-tense questions only.
-Full write-up in `docs/interviews/<YYYY-MM-DD>-<initials>.md`.
+Interviewed <JH/Candidate> on <2026-09-03>, <40> minutes, past-tense questions only.
 
-- "<verbatim quote 1>"
-- "<verbatim quote 2>"
-- "<verbatim quote 3>"
+- "<I could see even myself using that, I have used a plugin in GarageBand.>"
+- "<I could see that being useful if you want a certain sounds.>"
 
 <If your project has no user but you, say so here in one sentence and substitute a
 competitive scan of at least three existing tools. Do not invent a user.>
