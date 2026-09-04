@@ -8,9 +8,9 @@
 
 ## 2. Project (filled in Week 2, after the scoping decision)
 
-- **One-sentence description:** <fill in Week 2>
+- **One-sentence description:** For Composers and Music Creators who want to use Soundfonts from games to use as digital instruments for music.
 - **Primary user:** <a real person or role, not "users">
-- **The one thing it must do to be worth finishing:** <fill in Week 2>
+- **The one thing it must do to be worth finishing:** Getting the soundfont file by ROM file conversion.
 
 ## 3. Capacity and constraints
 
