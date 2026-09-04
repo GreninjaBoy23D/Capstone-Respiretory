@@ -20,9 +20,6 @@ Interviewed <JH/Candidate> on <2026-09-03>, <40> minutes, past-tense questions o
 - "<I could see even myself using that, I have used a plugin in GarageBand.>"
 - "I could see that being useful if you want certain sounds."
 
-<If your project has no user but you, say so here in one sentence and substitute a
-competitive scan of at least three existing tools. Do not invent a user.>
-
 ## 3. Chosen scope — Must features
 
 | # | Feature | Hours |
@@ -40,8 +37,10 @@ leaves slack, and what happens if it does not.>
 
 ## 4. Should features — built only if there is room
 
-<Each with its hour cost and the week it would be built. Say plainly which one is cut
-first when you fall behind.>
+Able to take any ROM file and extract audio samples.
+Able to automatically loop audio samples (potentially cut first).
+Able to compile the samples into a SounFont (or SF2) file format.
+Able to export SounFont files to a computer.
 
 ## 5. Out of scope — will not be built
 
@@ -56,8 +55,7 @@ first when you fall behind.>
 
 ## 6. Accepted tradeoffs
 
-<Any place you deliberately chose a cheaper design that costs the user something.
-Name the cost. Name why you accepted it. Name what would make you revisit.>
+The ability for this respiratory to be able to automatically loop samples for the finished Soundfont, a small thing that could be easy to implement. May re-implement it after initial launch.
 
 ## 7. Rejected candidates
 
@@ -79,9 +77,6 @@ it, and the condition for revisiting — or "closed, not deferred".>
 | 15–16 | Presentation + delivery | 30 |
 | | **Total** | **240** |
 
-<One sentence: does your construction total fit inside the 60/75 line, and what did
-you cut to make it fit?>
-
 ## 9. The one hard part
 
 Using Imported Files: It takes a lot of knowledge to write code that lets you import a file. Not only that, but also having to go through a list of the compatibility of the specific ROM files as well.
@@ -99,6 +94,5 @@ it while panicking.
 
 ---
 
-**Signed:** <your name>, <YYYY-MM-DD>
-**AI use for this document:** <what you asked, what you kept, what you changed — and
-the matching entry in `docs/ai-usage.md`.>
+**Signed:** <Kevin Xiong>, <2026-09-03>
+**AI use for this document:** <None>
