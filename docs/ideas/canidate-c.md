@@ -52,26 +52,25 @@ testing and documentation, which are graded.
 
 | Gate | Verdict | Evidence (dated) |
 |---|---|---|
-| **Build** — novelty load ≤ 2 | pass / fail | <technology list, each marked known/new> |
+| **Build** — novelty load ≤ 2 | pass | <technology list, each marked known> |
 | **Get** — every dependency exercised for real | pass / fail | <status code, saved response, date> |
 | **Ship** — a named deployment target, terms read | pass / fail | <target + pricing page read on YYYY-MM-DD> |
 | **Show** — a stranger sees it work in 10 minutes | pass / fail | <the ten steps, written down> |
 
-**Technologies:** <name> (known/new) · <name> (known/new) · <name> (known/new)
+**Technologies:** <C++> (known) · <Java> (known) · <Python> (known)
 **Novelty load:** <count of "new">
 
 ## 6. The one hard part
 
-<Name exactly one. Say what makes it hard in two sentences. If you can name three,
-you have three projects.>
+Using Imported Files: It takes a lot of knowledge to write code that lets you import a file. Not only that, but also having to go through a list of the compatibility of the specific ROM files as well.
 
 ## 7. Scorecard (1–5 each; weight in parentheses)
 
 | Criterion | (w) | Score | Weighted |
 |---|---:|---:|---:|
-| Evidence a user exists | 3 | | |
+| Evidence a user exists | 3 | 3 | 3 |
 | Fits ~45 hours of features | 3 | | |
 | Novelty load | 2 | | |
 | Dependencies verified | 2 | | |
 | Demonstrable in ten minutes | 1 | | |
-| **Total (max 55)** | | | |
+| **Total (max 55)** | | 3 | 3 |
