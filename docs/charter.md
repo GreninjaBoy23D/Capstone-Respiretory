@@ -62,5 +62,5 @@
 - **Logging:** every session ends with a row in `docs/hours-log.csv`, written before I close the laptop.
 - **Board:** work-in-progress limit of <n>; nothing moves to Done without its stopping condition met.
 - **Commits:** requirement identifier first in the subject line; one logical change per commit.
-- **When I fall behind, I cut in this order:** <ranked, decided now, while it is cheap>
+- **When I fall behind, I cut in this order:** Able to automatically loop audio samples. Being able to use the soundfont file under fair use. Using the Soundfont files for certain sounds.
 - **AI use:** governed by `docs/ai-usage.md`; every Amber-zone use is logged the day it happens.
