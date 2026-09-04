@@ -54,12 +54,12 @@ testing and documentation, which are graded.
 
 | Gate | Verdict | Evidence (dated) |
 |---|---|---|
-| **Build** — novelty load ≤ 2 | pass / fail | <technology list, each marked known/new> |
+| **Build** — novelty load ≤ 2 | fail | technology list, each marked new |
 | **Get** — every dependency exercised for real | pass / fail | <status code, saved response, date> |
 | **Ship** — a named deployment target, terms read | pass / fail | <target + pricing page read on YYYY-MM-DD> |
 | **Show** — a stranger sees it work in 10 minutes | pass / fail | <the ten steps, written down> |
 
-**Technologies:** <name> (known/new) · <name> (known/new) · <name> (known/new)
+**Technologies:** Java (new) · C++ (new) · Python (knew)
 **Novelty load:** <count of "new">
 
 ## 6. The one hard part
