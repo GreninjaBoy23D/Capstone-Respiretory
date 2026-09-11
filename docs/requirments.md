@@ -8,7 +8,7 @@ Requirement IDs are FR-<AREA>-<nn>. Assign an ID once and never reuse it.
 Retire an ID by marking it Withdrawn; do not renumber.
 -->
 
-**Author:** <Kevin Xiong>  **Version:** 1.0  **Date:** <2026-09-09>
+**Author:** Kevin Xiong  **Version:** 1.0  **Date:** <2026-09-09>
 **Status:** Draft 
 ---
 
