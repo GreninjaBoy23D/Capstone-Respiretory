@@ -9,6 +9,7 @@
 This application lets users extract a game's ROM file and convert their instruments into a packaged SoundFont (SF2) format. For musical composers wanting to use instruments from their favorite video games, this tool is a great way to get the instruments they like. It benefits composers and saves time through its compatibility with various ROM types, such as DS, PlayStation, Game Boy Advance, and more, requiring just one tool to get multiple soundfonts from different ROM's.
 
 One paragraph: what is explicitly *outside* the boundary of this release.
+Even though users can convert ROM's into soundfont's, there....
 
 ## 2. Stakeholders and Personas
 
