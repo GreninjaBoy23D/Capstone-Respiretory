@@ -6,8 +6,7 @@
 
 ## 1. Purpose and Scope
 
-One paragraph: what this system is for, who it serves, and what problem it removes.
-This system allows users to extract ROM files and convert its instruments into a packaged Soundfont (SF2) format. 
+This application lets users extract a game's ROM file and convert their instruments into a packaged SoundFont (SF2) format. For musical composers wanting to use instruments from their favorite video games, this tool is a great way to get the instruments they like. It benefits composers and saves time through its compatibility with various ROM types, such as DS, PlayStation, Game Boy Advance, and more, requiring just one tool to get multiple soundfonts from different ROM's.
 
 One paragraph: what is explicitly *outside* the boundary of this release.
 
