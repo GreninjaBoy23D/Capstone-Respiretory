@@ -7,6 +7,8 @@
 ## 1. Purpose and Scope
 
 One paragraph: what this system is for, who it serves, and what problem it removes.
+This system allows users to extract ROM files and convert its instruments into a packaged Soundfont (SF2) format. 
+
 One paragraph: what is explicitly *outside* the boundary of this release.
 
 ## 2. Stakeholders and Personas
