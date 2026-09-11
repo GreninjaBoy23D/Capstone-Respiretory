@@ -14,7 +14,7 @@ The current version of the tool only supports users who are on laptop and PC. Th
 
 | Persona | Who they are | What they need from the system | Evidence they exist |
 |---|---|---|---|
-| <Kevin Xiong, 21, Organizer> | <one sentence> | <one sentence> | <interview date / observation / artifact> |
+| Name: Kevin Xiong, Age: 21, Role: Organizer | <one sentence> | <one sentence> | <interview date / observation / artifact> |
 | <name, age, role> | <one sentence> | <one sentence> | <interview date / observation / artifact> |
 | <name, age, role> | <one sentence> | <one sentence> | <interview date / observation / artifact> |
 
