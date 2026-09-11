@@ -1,12 +1,4 @@
-# Software Requirements Specification — <Your Project Name>
-
-<!--
-COPY THIS FILE into your repository as docs/requirements.md and delete every
-comment block as you fill it in. Keep the section numbering; the Week-16 rubric
-and the Week-4 traceability matrix both key off it.
-Requirement IDs are FR-<AREA>-<nn>. Assign an ID once and never reuse it.
-Retire an ID by marking it Withdrawn; do not renumber.
--->
+# Software Requirements Specification — Kevin Xiong
 
 **Author:** Kevin Xiong  **Version:** 1.0  **Date:** <2026-09-09>
 **Status:** Draft 
