@@ -15,7 +15,7 @@ The current version of the tool only supports users who are on laptop and PC. Th
 | Persona | Who they are | What they need from the system | Evidence they exist |
 |---|---|---|---|
 | Name: Kevin Xiong, Age: 21, Role: Organizer | The person who created the tool, testing to see if the converter works. | I would like to see if my tool can be able to easily extract and convert a game ROM into a Soundfont. | <interview date / observation / artifact> |
-| <name, age, role> | The person who created the tool,  | <one sentence> | <interview date / observation / artifact> |
+| Name: Derek, Age: Around over 18, Role: User | Derek is a new upcoming game composer who wants to use a video games soundfont in thier music. | a way to get a raw soundfont by using a ROM of a N64 game. | <interview date / observation / artifact> |
 
 Include the maintainer who inherits this repository. They are a stakeholder.
 
