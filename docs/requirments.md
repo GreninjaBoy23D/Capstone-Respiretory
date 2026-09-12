@@ -14,10 +14,10 @@ The current version of the tool only supports users who are on laptop and PC. Th
 
 | Persona | Who they are | What they need from the system | Evidence they exist |
 |---|---|---|---|
-| Name: Kevin Xiong, Age: 21, Role: Organizer | The person who created the tool, testing to see if the converter works. | I would like to see if my tool can be able to easily extract and convert a game ROM into a Soundfont. | <interview date / observation / artifact> |
-| Name: Derek, Age: Around over 18, Role: User | Derek is a new upcoming game composer who wants to use a video games soundfont in thier music. | a way to get a raw soundfont by using a ROM of a N64 game. | <interview date / observation / artifact> |
+| Name: Kevin Xiong, Age: 21, Role: Organizer | The person who created the tool, testing to see if the converter works. | I would like to see if my tool can be able to easily extract and convert a game ROM into a Soundfont. | I am the creator of the project who is activally learning how to extract soundfonts, such as GBA. |
+| Name: Derek, Age: Around over 18, Role: User | Derek is a new, upcoming game composer who wants to use a video game soundfont in their music. | A way to get a raw soundfont by using a ROM of an N64 game. | Composers like Tee Lopes and RESOFORCE use soundfonts from games as a part of their music. Other independent content creators make covers of songs using these soundfonts. |
 
-Include the maintainer who inherits this repository. They are a stakeholder.
+Stakeholder: Kevin Xiong
 
 ## 3. Definitions
 
