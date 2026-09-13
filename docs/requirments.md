@@ -66,8 +66,6 @@ The User MUST be able to Export Soundfont file from this Tool to their computers
 
 
 In this version, The Tool Won’t be able to group samples categorically (Such as Brass, Bass, Percussion, Drum Sets, ETC) when the SoundFont is made.
-- Given that the SoundFont were to have instruments separated into categories, it would make it easier for composers to go through certain instruments of different musical groups.
-- Given that the instruments are not categorized, means that all instruments in the SoundFont will remain separate, including Drum Set instruments.
 - **Source:** My Own Decision
 
 
