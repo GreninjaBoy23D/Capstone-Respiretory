@@ -40,6 +40,8 @@ The User MUST be able to Extract Instruments from ROM files by importing them fr
 - Given the compatibility list of ROM types (based on consoles like GBA, DS, CPS, PS1, etc) for this tool, when tries to import a ROM from outside the list of compatible formats, then the tool will get an error message saying that the ROM file is not compatible.
 - **Source:** My Own Decision
 
+In this version, The Tool Won’t be able to allow you to import multiple ROM files to create your own custom SoundFont, as it focuses on extracting instruments from one ROM file.
+- **Source:** My Own Decision
 
 The User SHOULD be able to Rename an instrument from the extracted samples when clicking on an instrument and double tapping the name.
 - Given that a user extracts the samples, when a user double clicks the name when selecting an instrument from the extracted samples, they should be able to change the name a sample of the instrument.
