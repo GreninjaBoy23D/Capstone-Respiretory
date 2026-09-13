@@ -65,24 +65,6 @@ The User MUST be able to Export Soundfont file from this Tool to their computers
 - **Source:** My Own Decision
 
 
-
-The User SHOULD be able to Play a preview of the instrument from the extracted samples when clicking on an instrument and hitting a PLAY Button.
-- Given that a user extracts the samples, when a user clicks the play button when selecting an instrument from the extracted samples, they should be able to hear a sample of the instrument.
-- Given that some samples do not work when played, when a user clicks the play button when selecting an instrument from the extracted samples, then no sound is heard when the sample is played.
-- **Source:** My Own Decision.
-
-
-The User MUST be able to Create the SoundFont file from the extracted samples by compiling them into a packaged SF2 file format.
-- Given that the user is ready to convert samples into a soundfont, when a user proceeds to convert the samples, then the tool compiles it into a packaged soundfont file.
-- Given that something goes wrong in the conversation of the samples to a soundfont, when a user tries to convert the samples, then an error message occurs and the soundfont was not made due to something being wrong with the samples.
-- **Source:** My Own Decision.
-
-
-The User MUST be able to Export Soundfont file from this Tool to their computers file storage after converting the samples into a Soundfont.
-- Given that the user converts the samples into the soundfont, when a user’s conversion is complete, then the tool can export the SoundFont file toward a file directory.
-- Given that the directory for the export is not given, when a user tries to export the SoundFont without a directory, then the tool will not be able to export the soundfont.
-- **Source:** My Own Decision
-
 ## 6. Non-Functional Requirements
 
 Placeholder for Week 4. Do not write vague quality words here now; write nothing
