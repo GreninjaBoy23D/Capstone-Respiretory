@@ -35,23 +35,21 @@ Stakeholder: Kevin Xiong
 
 <!-- Repeat this block for every requirement. Group by area. -->
 
-Must be able to extract instrument samples from Game ROM’s files.
+The User MUST be able to Extract Instruments from ROM files by importing them from their system files to the tool.
 - Given that a user opens this tool, when a user imports a game ROM from their files into it, then the tool detects the type of ROM and extracts instrument samples from it.
 - Given the compatibility list of ROM types (based on consoles like GBA, DS, CPS, PS1, etc) for this tool, when tries to import a ROM from outside the list of compatible formats, then the tool will get an error message saying that the ROM file is not compatible.
 **Source:** My Own Decision
 
-
-Should be able to play and hear instrument samples.
+The User SHOULD be able to Play a preview of the instrument from the extracted samples when clicking on an instrument.
 - Given that a user extracts the samples, when a user clicks on an instrument from the extracted samples, they should be able to hear a sample of the instrument.
 - Given <edge or failure case>, when <trigger>, then <defined behavior>.
 **Source:** My Own Decision
 
-
-Must be able to compile instrument samples into a packaged SoundFont format.
+The User MUST be able to Create the SoundFont file from the extracted samples by compiling them into a packaged SF2 file format.
+The User must be able to compile instrument samples into a packaged SoundFont format.
 - Given that the user is ready to convert samples into a soundfont, when a user proceeds to convert the samples, then the tool compiles it into a packaged soundfont file.
 - Given <edge or failure case>, when <trigger>, then <defined behavior>.
 **Source:** My Own Decision
-
 
 ## 6. Non-Functional Requirements
 
