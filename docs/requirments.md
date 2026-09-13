@@ -50,6 +50,12 @@ The User MUST be able to Create the SoundFont file from the extracted samples by
 - Given <edge or failure case>, when <trigger>, then <defined behavior>.
 **Source:** My Own Decision
 
+The User MUST be able to Export Soundfont file from this Tool to their computers file storage after converting the samples into a Soundfont.
+- Given that the user converts the samples into the soundfont, when a user’s conversion is complete, then the tool is able to export the SoundFont file toward a file directory.
+- Given <edge or failure case>, when <trigger>, then <defined behavior>.
+**Source:** My Own Decision
+
+
 
 ## 6. Non-Functional Requirements
 
