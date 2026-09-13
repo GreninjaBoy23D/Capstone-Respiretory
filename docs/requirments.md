@@ -39,21 +39,28 @@ The User MUST be able to Extract Instruments from ROM files by importing them fr
 - Given that a user opens this tool, when a user imports a game ROM from their files into it, then the tool detects the type of ROM and extracts instrument samples from it.
 - Given the compatibility list of ROM types (based on consoles like GBA, DS, CPS, PS1, etc) for this tool, when tries to import a ROM from outside the list of compatible formats, then the tool will get an error message saying that the ROM file is not compatible.
 **Source:** My Own Decision
-
-The User SHOULD be able to Play a preview of the instrument from the extracted samples when clicking on an instrument.
-- Given that a user extracts the samples, when a user clicks on an instrument from the extracted samples, they should be able to hear a sample of the instrument.
+  
+The User SHOULD be able to Rename an instrument from the extracted samples when clicking on an instrument and double tapping the name.
+- Given that a user extracts the samples, when a user double clicks the name when selecting an instrument from the extracted samples, they should be able to change the name a sample of the instrument.
 - Given <edge or failure case>, when <trigger>, then <defined behavior>.
 **Source:** My Own Decision
-
+  
+The User SHOULD be able to Play a preview of the instrument from the extracted samples when clicking on an instrument and hitting a PLAY Button.
+- Given that a user extracts the samples, when a user clicks the play button when selecting an instrument from the extracted samples, they should be able to hear a sample of the instrument.
+- Given <edge or failure case>, when <trigger>, then <defined behavior>.
+**Source:** My Own Decision
+  
 The User MUST be able to Create the SoundFont file from the extracted samples by compiling them into a packaged SF2 file format.
 - Given that the user is ready to convert samples into a soundfont, when a user proceeds to convert the samples, then the tool compiles it into a packaged soundfont file.
 - Given <edge or failure case>, when <trigger>, then <defined behavior>.
 **Source:** My Own Decision
-
+  
 The User MUST be able to Export Soundfont file from this Tool to their computers file storage after converting the samples into a Soundfont.
 - Given that the user converts the samples into the soundfont, when a user’s conversion is complete, then the tool is able to export the SoundFont file toward a file directory.
 - Given <edge or failure case>, when <trigger>, then <defined behavior>.
 **Source:** My Own Decision
+
+
 
 
 
