@@ -39,18 +39,26 @@ The User MUST be able to Extract Instruments from ROM files by importing them fr
 - Given that a user opens this tool, when a user imports a game ROM from their files into it, then the tool detects the type of ROM and extracts instrument samples from it.
 - Given the compatibility list of ROM types (based on consoles like GBA, DS, CPS, PS1, etc) for this tool, when tries to import a ROM from outside the list of compatible formats, then the tool will get an error message saying that the ROM file is not compatible.
 - **Source:** My Own Decision
+
+
 The User SHOULD be able to Rename an instrument from the extracted samples when clicking on an instrument and double tapping the name.
 - Given that a user extracts the samples, when a user double clicks the name when selecting an instrument from the extracted samples, they should be able to change the name a sample of the instrument.
 - Given that the samples were extracted without being renamed, when the user tries to export the instrument without renaming it, then when they use the soundfont, the name could not be changed afterwards. Not only that, it will make it confusing to find which instrument to use when using the soundfont.
 - **Source:** My Own Decision
+
+
 The User SHOULD be able to Play a preview of the instrument from the extracted samples when clicking on an instrument and hitting a PLAY Button.
 - Given that a user extracts the samples, when a user clicks the play button when selecting an instrument from the extracted samples, they should be able to hear a sample of the instrument.
 - Given that some samples do not work when played, when a user clicks the play button when selecting an instrument from the extracted samples, then no sound is heard when the sample is played.
 - **Source:** My Own Decision
+
+
 The User MUST be able to Create the SoundFont file from the extracted samples by compiling them into a packaged SF2 file format.
 - Given that the user is ready to convert samples into a soundfont, when a user proceeds to convert the samples, then the tool compiles it into a packaged soundfont file.
 - Given that something goes wrong in the conversation of the samples to a soundfont, when a user tries to convert the samples, then an error message occurs and the soundfont was not made due to something being wrong with the samples.
 - **Source:** My Own Decision
+
+
 The User MUST be able to Export Soundfont file from this Tool to their computers file storage after converting the samples into a Soundfont.
 - Given that the user converts the samples into the soundfont, when a user’s conversion is complete, then the tool can export the SoundFont file toward a file directory.
 - Given that the directory for the export is not given, when a user tries to export the SoundFont without a directory, then the tool will not be able to export the soundfont.
