@@ -35,14 +35,21 @@ Stakeholder: Kevin Xiong
 
 <!-- Repeat this block for every requirement. Group by area. -->
 
-### FR-<AREA>-<nn> — <short imperative name>
+Must be able to extract instrument samples from Game ROM’s files.
+- Given that a user opens this tool, when a user imports a game ROM from their files into it, then the tool detects the type of ROM and extracts instrument samples from it.
+- Given the compatibility list of ROM types (based on consoles like GBA, DS, CPS, PS1, etc) for this tool, when tries to import a ROM from outside the list of compatible formats, then the tool will get an error message saying that the ROM file is not compatible.
+**Source:** My Own Decision
 
-**Priority:** Must | Should | Could | Won't (this release)
-**Requirement:** <Actor> shall be able to <action> <object> <under what condition>.
-**Rationale:** Why this exists, and which persona asked for it.
-**Acceptance criteria:**
-- Given <starting state>, when <the actor does this>, then <this observable thing is true>.
+Should be able to play and hear instrument samples.
+- Given that a user extracts the samples, when a user clicks on an instrument from the extracted samples, they should be able to hear a sample of the instrument.
 - Given <edge or failure case>, when <trigger>, then <defined behavior>.
+**Source:** My Own Decision
+
+Must be able to compile instrument samples into a packaged SoundFont format.
+- Given that the user is ready to convert samples into a soundfont, when a user proceeds to convert the samples, then the tool compiles it into a packaged soundfont file.
+- Given <edge or failure case>, when <trigger>, then <defined behavior>.
+**Source:** My Own Decision
+
 
 **Source:** <interview, observation, regulation, your own decision — name it>
 
