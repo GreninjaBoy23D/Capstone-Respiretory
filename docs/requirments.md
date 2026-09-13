@@ -94,6 +94,11 @@ The Tool SHOULD be able to Handle Errors when it fails to convert ROM's for Soun
 - Given that if there was an error when trying to make the SoundFont, when the tool crashes due to failure, then the tool would not be seen as reliable and may be prone to crashing again.
 - **Source:** My Own Decision
 
+The Tool SHOULD be able to Log reports and data about the conversion from ROM's to Soundfonts, recording ROM information, warnings, errors, etc.
+- Given that the function is complete, when a tool is used, then the tool creates a log file that lists out everything that happened for that conversion.
+- Given that the function dosent have a logging system, when the tool does not have a log, then no files would be created to show it's conversion.
+- **Source:** My Own Decision
+
 ## 6. Non-Functional Requirements
 
 Placeholder for Week 4. Do not write vague quality words here now; write nothing
