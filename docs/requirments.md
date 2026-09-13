@@ -21,9 +21,6 @@ Stakeholder: Kevin Xiong
 
 ## 3. Definitions
 
-Define every term your requirements use in a project-specific sense. If a reader
-could interpret a word two ways, it belongs here.
-
 | Term | Definition in this document |
 |---|---|
 |Soundfont|A file format that uses sample-based synthesis to play MIDI files, commonly identified by the SF2 file extension|
