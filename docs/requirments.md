@@ -31,7 +31,7 @@ could interpret a word two ways, it belongs here.
 
 ## 4. Assumptions and Dependencies
 
-- **Assumption:** Finding a way for the program to include a variety of ROM files from designed for different consoles would be no easy task. — *If false:* <consequence>
+- **Assumption:** Finding a way for the program to include a variety of ROM files designed for different consoles would be no easy task. — *If false:* It would save me much more time with the right amount of research.
 - **Dependency:** <an external service, dataset, device, or person you rely on> — *If unavailable:* <fallback>
 
 ## 5. Functional Requirements
