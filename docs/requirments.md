@@ -58,10 +58,11 @@ with one line of reasoning. A short list here means you have not thought hard en
 
 | Not building | Why not | Revisit when |
 |---|---|---|
-|Something that doesn't export stuff like videos or actual OST.|This tool is used specifically for extracting audio samples used as instruments for a Soundfont file.|---|
-|Notifications or use of email.|First version is specifically made for Laptop users.|---|
-|Use of a device camera.|Not necesary for the use of the tool|---|
-|Anything with a password.|Free client-based tool, no secutity measures needed to use it.|---|
+|Something that doesn't export stuff like videos or actual OST.|This tool is used specifically for extracting audio samples used as instruments for a SoundFont file.|---|
+|A mobile app | The first version is specifically made for Laptop users.|---|
+|A mobile app; browser/laptop only.| The first version is specifically made for Laptop users.|---|
+|Notifications or use of email.|The tool does not require you to use your email, and notifications are not necessary for converting to SoundFont files.|---|
+|Anything with a password.|Free client-based tool, no security measures needed to use it.|---|
 |Nothing regarding a user's personal information.|Only uses files from your computer storage.|---|
 |Needing to import other files for the converter such as Image files.|ROM files are the only input source.|---|
 |Something that takes a long time to boot/install/set up.|To make it quick and easy to use.|---|
