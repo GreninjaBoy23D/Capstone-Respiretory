@@ -29,7 +29,7 @@ Stakeholder: Kevin Xiong
 ## 4. Assumptions and Dependencies
 
 - **Assumption:** Finding a way for the program to include a variety of ROM files designed for different consoles would be no easy task. — *If false:* It would save me much more time with the right amount of research.
-- **Dependency:** My Personal Laptop for Development, Tests, and/or Updates. <an external service, dataset, device, or person you rely on> — *If unavailable:* I would have to use a different computer to continue development or update. <fallback>
+- **Dependency:** My Personal Laptop for Development, Tests, and/or Updates. — *If unavailable:* I would have to use a different computer or wait until I can have access to the device to continue development or update.
 
 ## 5. Functional Requirements
 
