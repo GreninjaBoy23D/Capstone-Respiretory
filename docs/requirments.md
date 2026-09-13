@@ -65,6 +65,18 @@ The User MUST be able to Export Soundfont file from this Tool to their computers
 - **Source:** My Own Decision
 
 
+In this version, The Tool Won’t be able to group samples categorically (Such as Brass, Bass, Percussion, Drum Sets, ETC) when the SoundFont is made.
+- Given that the SoundFont were to have instruments separated into categories, it would make it easier for composers to go through certain instruments of different musical groups.
+- Given that the instruments are not categorized, means that all instruments in the SoundFont will remain separate, including Drum Set instruments.
+- **Source:** My Own Decision
+
+
+The Tool SHOULD be able to have certain instruments have loops when exported as a SoundFont when using the newly made SoundFont.
+- Given that the SoundFont was exported, when a user uses an instrument, certain instruments should have loops to produce longer notes.
+- Given that the sample comes without loops, the audio of the note being played would be as long when playing long notes.
+- **Source:** My Own Decision
+
+
 ## 6. Non-Functional Requirements
 
 Placeholder for Week 4. Do not write vague quality words here now; write nothing
