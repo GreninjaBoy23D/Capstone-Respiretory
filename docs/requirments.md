@@ -100,6 +100,9 @@ with one line of reasoning. A short list here means you have not thought hard en
 
 | # | Question | Who can answer it | Needed by |
 |---|---|---|---|
+|1|Have you heard about a Soundfont?|---|---|
+|2|Have you used a Soundfont file before?|---|---|
+|3|How hard was it to get a SoundFont from a ROM?|---|---|
 
 ## 9. Document Change Log
 
