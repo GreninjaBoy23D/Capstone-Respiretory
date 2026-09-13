@@ -40,6 +40,16 @@ The User MUST be able to Extract Instruments from ROM files by importing them fr
 - Given the compatibility list of ROM types (based on consoles like GBA, DS, CPS, PS1, etc) for this tool, when tries to import a ROM from outside the list of compatible formats, then the tool will get an error message saying that the ROM file is not compatible.
 - **Source:** My Own Decision
 
+The Tool MUST be able to Understand data location of a ROM when the user imports the file into the tool.
+- Given that the tool imports the ROM file, when the tool finds the data necessary for the SoundFont, then the tool will be able to use that data to make the SoundFont.
+- Given the programming and no clear direction for the tool, when it tries to look for the data, the tool cannot make the SoundFont at all due to the data not being detected.
+- **Source:** My Own Decision
+
+
+The Tool MUST be able to Map Instruments from the Samples when it finds the data for them.
+- Given that the tool has access to the samples, when the tool is able to describe how the samples behave, the tool let's the samples behave as instruments with MIDI key ranges.
+- Given the tool does not recognize how the samples work, when it tries to map it as an instrument, the tool cannot make the instrument for the soundfont.
+- **Source:** My Own Decision
 
 In this version, The Tool Won’t be able to allow you to import multiple ROM files to create your own custom SoundFont, as it focuses on extracting instruments from one ROM file.
 - **Source:** My Own Decision
