@@ -62,17 +62,6 @@ The User MUST be able to Export Soundfont file from this Tool to their computers
 - Given that the directory for the export is not given, when a user tries to export the SoundFont without a directory, then the tool will not be able to export the soundfont.
 - **Source:** My Own Decision
 
-
-  
-The User MUST be able to Export Soundfont file from this Tool to their computers file storage after converting the samples into a Soundfont.
-- Given that the user converts the samples into the soundfont, when a user’s conversion is complete, then the tool is able to export the SoundFont file toward a file directory.
-- Given <edge or failure case>, when <trigger>, then <defined behavior>.
-- **Source:** My Own Decision
-
-
-
-
-
 ## 6. Non-Functional Requirements
 
 Placeholder for Week 4. Do not write vague quality words here now; write nothing
