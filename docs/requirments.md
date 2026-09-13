@@ -46,10 +46,10 @@ The User SHOULD be able to Play a preview of the instrument from the extracted s
 **Source:** My Own Decision
 
 The User MUST be able to Create the SoundFont file from the extracted samples by compiling them into a packaged SF2 file format.
-The User must be able to compile instrument samples into a packaged SoundFont format.
 - Given that the user is ready to convert samples into a soundfont, when a user proceeds to convert the samples, then the tool compiles it into a packaged soundfont file.
 - Given <edge or failure case>, when <trigger>, then <defined behavior>.
 **Source:** My Own Decision
+
 
 ## 6. Non-Functional Requirements
 
