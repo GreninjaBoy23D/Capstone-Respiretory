@@ -43,6 +43,7 @@ memos, or the reflections is generated text.
 | Date | Tool / model | What I asked | What I kept | What I changed | How I verified |
 |---|---|---|---|---|---|
 |09-03-2026 |None |None |None |None |None |
+|09-09-2026 |ChatGPT |Suggestions for Requirments |some requirments that it suggested |the wording of said requirments |None |
 
 <!--
   A BAD entry (do not imitate):
