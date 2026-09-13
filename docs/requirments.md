@@ -25,6 +25,7 @@ Stakeholder: Kevin Xiong
 |---|---|
 |Soundfont|A file format that uses sample-based synthesis to play MIDI files, commonly identified by the SF2 file extension|
 |ROM|A file that contains data from a read-only memory chip, often from video game cartiriges/discs.|
+|MIDI|A Musical Instrument Digital Interface, it is an interface that connects to a wide variety of digitial music for playing, editing, and recording music.|
 
 ## 4. Assumptions and Dependencies
 
@@ -40,21 +41,21 @@ The User MUST be able to Extract Instruments from ROM files by importing them fr
 - Given the compatibility list of ROM types (based on consoles like GBA, DS, CPS, PS1, etc) for this tool, when tries to import a ROM from outside the list of compatible formats, then the tool will get an error message saying that the ROM file is not compatible.
 - **Source:** My Own Decision
 
-The Tool MUST be able to Understand data location of a ROM when the user imports the file into the tool.
+The Tool MUST be able to understand the data location of a ROM when the user imports the file into the tool.
 - Given that the tool imports the ROM file, when the tool finds the data necessary for the SoundFont, then the tool will be able to use that data to make the SoundFont.
 - Given the programming and no clear direction for the tool, when it tries to look for the data, the tool cannot make the SoundFont at all due to the data not being detected.
 - **Source:** My Own Decision
 
 
-The Tool MUST be able to Map Instruments from the Samples when it finds the data for them.
-- Given that the tool has access to the samples, when the tool is able to describe how the samples behave, the tool let's the samples behave as instruments with MIDI key ranges.
-- Given the tool does not recognize how the samples work, when it tries to map it as an instrument, the tool cannot make the instrument for the soundfont.
+The Tool MUST be able to Map Instruments from the Samples when it finds the data for them so that they can be implemented with a MIDI key-ranged instrument.
+- Given that the tool has access to the samples, when the tool can describe how the samples behave, the tool lets the samples behave as instruments with MIDI key ranges.
+- Given that the tool does not recognize how the samples work, when it tries to map it as an instrument, the tool cannot make the instrument for the soundfont.
 - **Source:** My Own Decision
 
 In this version, The Tool Won’t be able to allow you to import multiple ROM files to create your own custom SoundFont, as it focuses on extracting instruments from one ROM file.
 - **Source:** My Own Decision
 
-The User SHOULD be able to Rename an instrument from the extracted samples when clicking on an instrument and double tapping the name.
+The User SHOULD be able to rename an instrument from the extracted samples when clicking on an instrument and double tapping the name.
 - Given that a user extracts the samples, when a user double clicks the name when selecting an instrument from the extracted samples, they should be able to change the name a sample of the instrument.
 - Given that the samples were extracted without being renamed, when the user tries to export the instrument without renaming it, then when they use the soundfont, the name could not be changed afterwards. Not only that, it will make it confusing to find which instrument to use when using the soundfont.
 - **Source:** My Own Decision
@@ -66,14 +67,14 @@ The User SHOULD be able to Play a preview of the instrument from the extracted s
 - **Source:** My Own Decision
 
 
-The User MUST be able to Create the SoundFont file from the extracted samples by compiling them into a packaged SF2 file format.
-- Given that the user is ready to convert samples into a soundfont, when a user proceeds to convert the samples, then the tool compiles it into a packaged soundfont file.
-- Given that something goes wrong in the conversation of the samples to a soundfont, when a user tries to convert the samples, then an error message occurs and the soundfont was not made due to something being wrong with the samples.
+The User MUST be able to create the SoundFont file from the extracted samples by compiling them into a packaged SF2 file format.
+- Given that the user is ready to convert samples into a soundfont, when a user proceeds to convert the samples, then the tool compiles them into a packaged soundfont file.
+- Given that something goes wrong in the conversion of the samples to a soundfont, when a user tries to convert the samples, then an error message occurs, and the soundfont is not made due to something being wrong with the samples.
 - **Source:** My Own Decision
 
 
-The User MUST be able to Export Soundfont file from this Tool to their computers file storage after converting the samples into a Soundfont.
-- Given that the user converts the samples into the soundfont, when a user’s conversion is complete, then the tool can export the SoundFont file toward a file directory.
+The User MUST be able to export a SoundFont file from this Tool to their computer's file storage after converting the samples into a SoundFont.
+- Given that the user converts the samples into the SoundFont, when a user’s conversion is complete, then the tool can export the SoundFont file to a file directory.
 - Given that the directory for the export is not given, when a user tries to export the SoundFont without a directory, then the tool will not be able to export the soundfont.
 - **Source:** My Own Decision
 
@@ -87,6 +88,11 @@ The Tool SHOULD be able to have certain instruments have loops when exported as 
 - Given that the sample comes without loops, the audio of the note being played would be as long when playing long notes.
 - **Source:** My Own Decision
 
+
+The Tool SHOULD be able to Handle Errors when it fails to convert ROM's for SoundFonts while still being able to function.
+- Given that the function fails without crashing, when a tool sends the error message,  the tool can allow you to try again.
+- Given that if there was an error when trying to make the SoundFont, when the tool crashes due to failure, then the tool would not be seen as reliable and may be prone to crashing again.
+- **Source:** My Own Decision
 
 ## 6. Non-Functional Requirements
 
