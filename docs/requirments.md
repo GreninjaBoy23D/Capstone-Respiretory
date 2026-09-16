@@ -101,10 +101,7 @@ The Tool SHOULD be able to Log reports and data about the conversion from ROM's 
 
 ## 6. Non-Functional Requirements
 
-Placeholder for Week 4. Do not write vague quality words here now; write nothing
-and fill it in when you can make each one measurable.
-
-The Tool WON'T be able to use personal infromaation from a users computer software (such as an IPv4 Address) when the tool is used.
+The Tool WON'T be able to use personal information from a user's computer software (such as an IPv4 Address and any Social Security Number) when the tool is used.
 - **Source:** My Own Decision
 
 ## 7. Out of Scope (the Won't-Have List)
