@@ -104,6 +104,9 @@ The Tool SHOULD be able to Log reports and data about the conversion from ROM's 
 Placeholder for Week 4. Do not write vague quality words here now; write nothing
 and fill it in when you can make each one measurable.
 
+The Tool WON'T be able to use personal infromaation from a users computer software (such as an IPv4 Address) when the tool is used.
+- **Source:** My Own Decision
+
 ## 7. Out of Scope (the Won't-Have List)
 
 Things a reasonable reader might expect and will not get in this release, each
