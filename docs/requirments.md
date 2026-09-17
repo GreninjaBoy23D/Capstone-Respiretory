@@ -117,6 +117,12 @@ The tool SHOULD be able to run without needing much memory or processing power o
 - Given that..., when..., then....
 - **Source:** My Own Decision
 
+The tool MUST be available to downloaded as a ZIP file from the GitHub page and can be placed anywhere within the device's file storage (such as folders like Downloads, OS, etc.).
+- Category: Portability.
+- Given that the tool...., when the...., then.....
+- Given that..., when..., then....
+- **Source:** My Own Decision
+
 ## 7. Out of Scope (the Won't-Have List)
 
 Things a reasonable reader might expect and will not get in this release, each
