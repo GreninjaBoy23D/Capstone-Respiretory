@@ -105,10 +105,16 @@ The Tool WON'T be able to use personal information from a user's computer softwa
 - Category: Privacy.
 - **Source:** My Own Decision
 
-The Tool SHOULD be able to be freely used without the need for a password or any other security protocol to access the tool.
+The Tool SHOULD be freely usable without the need for a password or any other security protocol to access it.
 - Category: Security.
 - Given that the tool is open-source, when the tool starts up, then it is free to use without any use of a security measures, allowing anyone to use it more easily.
 - Given that the tool requires a password, when a user doesn't remember their password, then they won't have access to the tool.
+- **Source:** My Own Decision
+
+The tool SHOULD be able to run without needing much memory or processing power on the device.
+- Category: Performance.
+- Given that the tool...., when the...., then.....
+- Given that..., when..., then....
 - **Source:** My Own Decision
 
 ## 7. Out of Scope (the Won't-Have List)
