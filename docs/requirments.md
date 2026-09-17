@@ -102,6 +102,13 @@ The Tool SHOULD be able to Log reports and data about the conversion from ROM's 
 ## 6. Non-Functional Requirements
 
 The Tool WON'T be able to use personal information from a user's computer software (such as an IPv4 Address and any Social Security Number) when the tool is used.
+- Category: Privacy.
+- **Source:** My Own Decision
+
+The Tool SHOULD be able to be freely used without the need for a password or any other security protocol to access the tool.
+- Category: Security.
+- Given that the tool is open-source, when the tool starts up, then it is free to use without any use of a security measures, allowing anyone to use it more easily.
+- Given that the tool requires a password, when a user doesn't remember their password, then they won't have access to the tool.
 - **Source:** My Own Decision
 
 ## 7. Out of Scope (the Won't-Have List)
