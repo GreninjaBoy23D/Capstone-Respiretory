@@ -117,11 +117,13 @@ The tool SHOULD be able to run without needing much memory or processing power o
 - Given that..., when..., then....
 - **Source:** My Own Decision
 
-The tool MUST be available to downloaded as a ZIP file from the GitHub page and can be placed anywhere within the device's file storage (such as folders like Downloads, OS, etc.).
-- Category: Portability.
-- Given that the tool...., when the...., then.....
-- Given that..., when..., then....
+The tool MUST be available to download as a packaged ZIP file from the GitHub page.
+- Category: Accessibility.
+- Given that the tool is available as a package when the user wants to download the tool, then all assets of the tool will be accessible to the user, since all the files of the tool will be in the package all together.
+- Given that the tool's files are separate, when a user tries to download the whole tool, they would have to download each file/folder into a single directory one at a time, making it tedious for a user to download the whole tool.
 - **Source:** My Own Decision
+
+
 
 ## 7. Out of Scope (the Won't-Have List)
 
