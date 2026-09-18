@@ -123,7 +123,11 @@ The tool MUST be available to download as a packaged ZIP file from the GitHub pa
 - Given that the tool's files are separate, when a user tries to download the whole tool, they would have to download each file/folder into a single directory one at a time, making it tedious for a user to download the whole tool.
 - **Source:** My Own Decision
 
-
+The user SHOULD be able to download and/or relocate the tool (and its files) onto any directory within the device's files (such as the Downloads folder, Documents folder, or Program Files folder).
+- Category: Portability.
+- Given that..., when..., then....
+- Given that..., when..., then....
+- **Source:** My Own Decision
 
 ## 7. Out of Scope (the Won't-Have List)
 
