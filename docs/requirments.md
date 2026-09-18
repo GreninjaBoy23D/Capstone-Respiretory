@@ -147,6 +147,12 @@ The user SHOULD be able to use the exported SoundFont they created in a Music Ap
 - Given that..., when..., then....
 - **Source:** Inspired by one of my candidates' responses.
 
+The tool SHOULD be able to seperate the SoundFont file from the operating system itself, leaving it independent when they are created. 
+- Category: Portability.
+- Given that..., when..., then....
+- Given that..., when..., then....
+- **Source:** IOutside Source
+
 ## 7. Out of Scope (the Won't-Have List)
 
 Things a reasonable reader might expect and will not get in this release, each
