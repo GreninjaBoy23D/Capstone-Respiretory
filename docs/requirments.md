@@ -147,7 +147,7 @@ The user SHOULD be able to use the exported SoundFont they created in a Music Ap
 - Given that..., when..., then....
 - **Source:** Inspired by one of my candidates' responses.
 
-The tool SHOULD be able to separate the SoundFont file from the operating system itself, leaving it independent when they are created. 
+The tool SHOULD be able to separate the SoundFont file from the operating system itself, leaving it independent when it is created. 
 - Category: Portability.
 - Given that..., when..., then....
 - Given that..., when..., then....
@@ -159,6 +159,17 @@ The user SHOULD be able to convert the ROM into a SoundFont without the the need
 - Given that..., when..., then....
 - **Source:** Outside Source
 
+The user Should be able to edit their SoundFont they have created from the tool using applications like PolyPhone.
+- Category: Accessability.
+- Given that..., when..., then....
+- Given that..., when..., then....
+- **Source:** My Own Choice
+
+The user MUST be able to provide file paths for the tool so that it can handle SoundFonts safely in order to prevent unintended access or overwriting.
+- Category: Security.
+- Given that..., when..., then....
+- Given that..., when..., then....
+- **Source:** My Own Choice
 
 ## 7. Out of Scope (the Won't-Have List)
 
