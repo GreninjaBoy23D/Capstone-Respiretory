@@ -129,6 +129,12 @@ The user SHOULD be able to download and/or relocate the tool (and its files) to 
 - Given that..., when..., then....
 - **Source:** My Own Decision
 
+The tool MUST be easy to use for people who are experienced in how to create a soundfont from ROM files, and be simple enough for those who are new to making these files.
+- Category: Usability.
+- Given that..., when..., then....
+- Given that..., when..., then....
+- **Source:** My Own Decision
+
 ## 7. Out of Scope (the Won't-Have List)
 
 Things a reasonable reader might expect and will not get in this release, each
