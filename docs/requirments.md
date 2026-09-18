@@ -151,7 +151,14 @@ The tool SHOULD be able to separate the SoundFont file from the operating system
 - Category: Portability.
 - Given that..., when..., then....
 - Given that..., when..., then....
-- **Source:** IOutside Source
+- **Source:** Outside Source
+
+The user SHOULD be able to convert the ROM into a SoundFont without the the need to know about the ROM's structure.
+- Category: Usability.
+- Given that..., when..., then....
+- Given that..., when..., then....
+- **Source:** Outside Source
+
 
 ## 7. Out of Scope (the Won't-Have List)
 
