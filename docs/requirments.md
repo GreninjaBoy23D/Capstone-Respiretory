@@ -117,6 +117,12 @@ The tool SHOULD be able to run without needing much memory or processing power o
 - Given that..., when..., then....
 - **Source:** My Own Decision
 
+The tool SHOULD be able to detect incompatible ROM files used and report them without crashing.
+- Category: Reliability.
+- Given that the tool...., when the...., then.....
+- Given that..., when..., then....
+- **Source:** Outside Source
+
 The tool MUST be available to download as a packaged ZIP file from the GitHub page.
 - Category: Accessibility.
 - Given that the tool is available as a package when the user wants to download the tool, then all assets of the tool will be accessible to the user, since all the files of the tool will be in the package all together.
@@ -134,6 +140,12 @@ The tool MUST be easy to use for people who are experienced in how to create a s
 - Given that..., when..., then....
 - Given that..., when..., then....
 - **Source:** My Own Decision
+
+The user SHOULD be able to successfully use the exported SoundFont they have created from the tool itself in a Music App such as FL Studio or GarageBand.
+- Category: Usability.
+- Given that..., when..., then....
+- Given that..., when..., then....
+- **Source:** Inspired by one of my candidates' responses.
 
 ## 7. Out of Scope (the Won't-Have List)
 
