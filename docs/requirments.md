@@ -135,14 +135,14 @@ The user SHOULD be able to download and/or relocate the tool (and its files) to 
 - Given that..., when..., then....
 - **Source:** My Own Decision
 
-The tool MUST be easy to use for people who are experienced in how to create a soundfont from ROM files, and be simple enough for those who are new to making these files.
+The tool MUST be easy to use for people experienced in creating a soundfont from ROM files, and simple enough for those new to making these files.
 - Category: Usability.
 - Given that..., when..., then....
 - Given that..., when..., then....
 - **Source:** My Own Decision
 
-The user SHOULD be able to successfully use the exported SoundFont they have created from the tool itself in a Music App such as FL Studio or GarageBand.
-- Category: Usability.
+The user SHOULD be able to use the exported SoundFont they created in a Music App such as FL Studio or GarageBand.
+- Category: Reliability.
 - Given that..., when..., then....
 - Given that..., when..., then....
 - **Source:** Inspired by one of my candidates' responses.
