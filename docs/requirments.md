@@ -56,8 +56,8 @@ In this version, The Tool Won’t be able to allow you to import multiple ROM fi
 - **Source:** My Own Decision
 
 The User SHOULD be able to rename an instrument from the extracted samples when clicking on an instrument and double tapping the name.
-- Given that a user extracts the samples, when a user double clicks the name when selecting an instrument from the extracted samples, they should be able to change the name a sample of the instrument.
-- Given that the samples were extracted without being renamed, when the user tries to export the instrument without renaming it, then when they use the soundfont, the name could not be changed afterwards. Not only that, it will make it confusing to find which instrument to use when using the soundfont.
+- Given that a user extracts the samples, when a user double-clicks the name when selecting an instrument from the extracted samples, they should be able to change the name of a sample of the instrument.
+- Given that the samples were extracted without being renamed, when the user tries to export the instrument without renaming it, then when they use the soundfont, the name cannot be changed afterwards. Not only that, it will make it confusing to find which instrument to use when using the soundfont.
 - **Source:** My Own Decision
 
 
@@ -123,7 +123,7 @@ The tool MUST be available to download as a packaged ZIP file from the GitHub pa
 - Given that the tool's files are separate, when a user tries to download the whole tool, they would have to download each file/folder into a single directory one at a time, making it tedious for a user to download the whole tool.
 - **Source:** My Own Decision
 
-The user SHOULD be able to download and/or relocate the tool (and its files) onto any directory within the device's files (such as the Downloads folder, Documents folder, or Program Files folder).
+The user SHOULD be able to download and/or relocate the tool (and its files) to any directory on the device (such as the Downloads folder, Documents folder, or Program Files folder).
 - Category: Portability.
 - Given that..., when..., then....
 - Given that..., when..., then....
