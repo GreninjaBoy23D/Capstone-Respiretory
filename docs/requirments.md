@@ -137,8 +137,8 @@ The user SHOULD be able to download and/or relocate the tool (and its files) to 
 
 The tool MUST be easy to use for people experienced in creating a soundfont from ROM files, and simple enough for those new to making these files.
 - Category: Usability.
-- Given that..., when..., then....
-- Given that..., when..., then....
+- Given that a person can do the conversion without the knowledge of how a ROM is compiled, when the user uses the tool, the tool automatically goes through the ROM file to extract the Audio Samples.
+- Given that a person has little to no experience with ROM files, when a person tries to import the ROM into the tool, then the user will have to manually set the path within the ROM file using the tool, taking more time to extract the audio samples.
 - **Source:** My Own Decision
 
 The user SHOULD be able to use the exported SoundFont they created in a Music App such as FL Studio or GarageBand.
