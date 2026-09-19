@@ -113,8 +113,8 @@ The Tool SHOULD be freely usable without the need for a password or any other se
 
 The tool SHOULD be able to run without needing much memory or processing power on the device.
 - Category: Performance.
-- Given that the tool...., when the...., then.....
-- Given that..., when..., then....
+- Given that the tool can run without much memory needed, when the user runs the tool, the tool uses as much memory as it can without taking up too much space.
+- Given that the tool takes much a lot of storage on a computer, when a user tries to run the tool, the process will become slower since it uses more memory.
 - **Source:** My Own Decision
 
 The tool SHOULD be able to detect incompatible ROM files used and report them without crashing.
