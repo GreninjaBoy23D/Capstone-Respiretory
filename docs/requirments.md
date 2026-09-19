@@ -114,13 +114,13 @@ The Tool SHOULD be freely usable without the need for a password or any other se
 The tool SHOULD be able to run without needing much memory or processing power on the device.
 - Category: Performance.
 - Given that the tool can run without much memory needed, when the user runs the tool, the tool uses as much memory as it can without taking up too much space.
-- Given that the tool takes much a lot of storage on a computer, when a user tries to run the tool, the process will become slower since it uses more memory.
+- Given that the tool takes much a lot of storage space on a computer, when a user tries to run the tool, the process will become slower since it uses more memory.
 - **Source:** My Own Decision
 
 The tool SHOULD be able to detect incompatible ROM files used and report them without crashing.
 - Category: Reliability.
-- Given that the tool...., when the...., then.....
-- Given that..., when..., then....
+- Given that the tool can detect an incompatible ROM file, when the tool processes the file, then the tool will only show an ERROR message that the file is incompatible without crashing.
+- Given that the tool can detect an incompatible ROM file, when the tool tries to process the file, then the tool crashes due to the file's incompatibility, automatically closing or not responding.
 - **Source:** Outside Source
 
 The tool MUST be available to download as a packaged ZIP file from the GitHub page.
@@ -159,8 +159,8 @@ The user SHOULD be able to convert the ROM into a SoundFont without the the need
 - Given that..., when..., then....
 - **Source:** Outside Source
 
-The user Should be able to edit their SoundFont they have created from the tool using applications like PolyPhone.
-- Category: Accessability.
+The user should be able to edit the SoundFont they have created from the tool using applications like PolyPhone.
+- Category: Accessibility.
 - Given that..., when..., then....
 - Given that..., when..., then....
 - **Source:** My Own Choice
