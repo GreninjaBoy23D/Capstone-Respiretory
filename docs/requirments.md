@@ -132,7 +132,7 @@ The tool MUST be available to download as a packaged ZIP file from the GitHub pa
 The user SHOULD be able to download and/or relocate the tool (and its files) to any directory on the device (such as the Downloads folder, Documents folder, or Program Files folder).
 - Category: Portability.
 - Given that the tool can be moved anywhere in a user's files, when the user takes the folder and moves it to a different directory, then the tool can still function while located in a different file path.
-- Given that..., when..., then....
+- Given that the tool was downloaded, when a user tries to move the folder, the tool cannot be moved due to it being write-protected.
 - **Source:** My Own Decision
 
 The tool MUST be easy to use for people experienced in creating a soundfont from ROM files, and simple enough for those new to making these files.
