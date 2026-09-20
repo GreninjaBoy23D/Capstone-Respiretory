@@ -1,9 +1,12 @@
 req_id,type,priority,requirement,source,design_element,test_id,measurement_method,status
-FR-001,functional,Must, Extract Instruments from ROM files by importing them from their system files to the tool ,my own decision,AddItemForm + POST /items,T-001,acceptance criteria AC-001..003,planned
-FR-002,functional,Must, Understand the data location of a ROM when the user imports the file into the tool ,my own decision,PantryListView + GET /items,T-002,acceptance criteria AC-004..005,planned
-FR-003,functional,Must, Map Instruments from the Samples when it finds the data for them so that they can be implemented with a MIDI key-ranged instrument., my own decision,ItemRow action menu,T-003,acceptance criteria AC-006,planned
 
-FR-004,functional,Should,A user can look up an item by scanning or typing a barcode,stakeholder interview 2,BarcodeLookupService,,acceptance criteria AC-007,planned
+FR-001,functional,Must, Extract Instruments from ROM files by importing them from their system files to the tool ,my own decision, ,T-001,acceptance criteria AC-001..003,planned
+
+FR-002,functional,Must, Understand the data location of a ROM when the user imports the file into the tool ,my own decision, ,T-002,acceptance criteria AC-004..005,planned
+
+FR-003,functional,Must, Map Instruments from the Samples when it finds the data for them so that they can be implemented with a MIDI key-ranged instrument., my own decision, ,T-003,acceptance criteria AC-006,planned
+
+FR-004,functional,Won't,allow you to import multiple ROM files to create your own custom SoundFont, as it focuses on extracting instruments from one ROM file , my own decision, ,,acceptance criteria AC-007,planned
 
 FR-005,functional,Should,A household can share one pantry between multiple accounts,stakeholder interview 1,,,acceptance criteria AC-008..009,planned
 
