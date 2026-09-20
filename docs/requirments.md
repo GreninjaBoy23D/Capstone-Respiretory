@@ -210,7 +210,7 @@ with one line of reasoning. A short list here means you have not thought hard en
 | Dependancy | Version| Failure Mode | Fallback |
 |---|---|---|---|
 |C++|1.0|---|---|
-|---|1.0|---|---|
-|---|1.0|---|---|
+|SF2 writer/parser|1.0|---|---|
+|libsamplerate|0.2.2|---|---|
 
 ## 13. Obligations
