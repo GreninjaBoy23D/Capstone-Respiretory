@@ -11,7 +11,6 @@ FR-009,functional,Won't, group samples categorically when the SoundFont is made,
 FR-010,functional,Should,have certain instruments have loops when exported as a SoundFont when using the newly made SoundFont , my own decision, , ,acceptance criteria AC-007,planned
 FR-011,functional,Should,Handle Errors when it fails to convert ROM's for SoundFonts while still being able to function,my own decision,,,acceptance criteria AC-008..009,planned
 FR-012,functional,Should, Log reports and data ,my own decision,,T-006,acceptance criteria AC-010,planned
-
 NFR-PRIV-01,non-functional,Won't, use personal information from a user's computer software (such as an IPv4 Address and any Social Security Number) when the tool is used,Ch4 privacy,,T-101,"dev-tools throttling, 20 loads, record p95",planned
 NFR-SEC-02,non-functional,Should, freely usable without the need for a password or any other security protocol to access it ,Ch4 security,,T-101,"dev-tools throttling, 20 loads, record p95",planned
 NFR-PERF-03,non-functional,Should, run without needing much memory or processing power on the device,Ch4 perfromance,,T-101,"dev-tools throttling, 20 loads, record p95",planned
@@ -20,10 +19,10 @@ NFR-ACCS-05,non-functional,Must, available to download as a packaged ZIP file fr
 NFR-PORT-06,non-functional,Should, download and/or relocate the tool (and its files) to any directory on the device ,Ch4 portability,,T-101,"dev-tools throttling, 20 loads, record p95",planned
 NFR-USE-07,non-functional,Must, easy to use for people experienced in creating a soundfont from ROM files and simple enough for those new to making these files,Ch4 usability,,T-101,"dev-tools throttling, 20 loads, record p95",planned
 NFR-REL-08,non-functional,Should, use the exported SoundFont they created in a Music App such as FL Studio or GarageBand ,candicdate interview 2 ,,T-101,"dev-tools throttling, 20 loads, record p95",planned
-NFR-PERF-09,non-functional,Should, ,Ch4 ,,T-101,"dev-tools throttling, 20 loads, record p95",planned
-NFR-PERF-10,non-functional,Should, ,Ch4 ,,T-101,"dev-tools throttling, 20 loads, record p95",planned
-NFR-PERF-11,non-functional,Should, ,Ch4 ,,T-101,"dev-tools throttling, 20 loads, record p95",planned
-NFR-PERF-12,non-functional,Should, ,Ch4 ,,T-101,"dev-tools throttling, 20 loads, record p95",planned
+NFR-PORT-09,non-functional,Should, separate the SoundFont file from the operating system itself leaving it independent when it is created,Ch4 portability,,T-101,"dev-tools throttling, 20 loads, record p95",planned
+NFR-USE-10,non-functional,Should, convert the ROM into a SoundFont without the the need to know about the ROM's structure,Ch4 usability,,T-101,"dev-tools throttling, 20 loads, record p95",planned
+NFR-ACCS-11,non-functional,Should,  edit the SoundFont they have created from the tool using applications like PolyPhone,Ch4 accessability,,T-101,"dev-tools throttling, 20 loads, record p95",planned
+NFR-SEC-12,non-functional,Must,  provide file paths for the tool so that it can handle SoundFonts safely in order to prevent unintended access or overwriting ,Ch4 security,,T-101,"dev-tools throttling, 20 loads, record p95",planned
 
 
 
