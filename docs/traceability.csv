@@ -6,7 +6,7 @@ FR-002,functional,Must, Understand the data location of a ROM when the user impo
 
 FR-003,functional,Must, Map Instruments from the Samples when it finds the data for them so that they can be implemented with a MIDI key-ranged instrument., my own decision, ,T-003,acceptance criteria AC-006,planned
 
-FR-004,functional,Won't,allow you to import multiple ROM files to create your own custom SoundFont, as it focuses on extracting instruments from one ROM file , my own decision, ,,acceptance criteria AC-007,planned
+FR-004,functional,Won't,allow you to import multiple ROM files to create your own custom SoundFont, as it focuses on extracting instruments from one ROM file , my own decision, ,acceptance criteria AC-007,planned
 
 FR-005,functional,Should,A household can share one pantry between multiple accounts,stakeholder interview 1,,,acceptance criteria AC-008..009,planned
 
