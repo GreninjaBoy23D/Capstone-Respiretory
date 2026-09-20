@@ -200,6 +200,7 @@ with one line of reasoning. A short list here means you have not thought hard en
 
 ## 11. Assumptions
 | Assumption | By Date...| What if it's false |
+|---|---|---|
 |---|12-5-2026|---|
 |---|12-5-2026|---|
 |---|12-5-2026|---|
