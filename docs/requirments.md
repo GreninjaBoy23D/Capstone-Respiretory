@@ -211,5 +211,6 @@ with one line of reasoning. A short list here means you have not thought hard en
 |---|---|---|---|
 |---|---|---|---|
 |---|---|---|---|
+|---|---|---|---|
 
 ## 13. Obligations
