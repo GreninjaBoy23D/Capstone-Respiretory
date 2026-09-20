@@ -191,9 +191,16 @@ with one line of reasoning. A short list here means you have not thought hard en
 
 
 ## 10. Constraints
+| Constraint | What is ruled out |
+|---|---|
+
 
 ## 11. Assumptions
+| Assumption | By Date...| What if it's false |
+|---|---|---|
 
 ## 12. Dependencies
+| Dependancy | Version| Failure Mode | Fallback |
+|---|---|---|---|
 
 ## 13. Obligations
