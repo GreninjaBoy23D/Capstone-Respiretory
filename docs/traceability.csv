@@ -18,8 +18,8 @@ NFR-PERF-03,non-functional,Should, run without needing much memory or processing
 NFR-REL-04,non-functional,Should, detect incompatible ROM files used and report them without crashing ,Ch4 reliability,,T-101,"dev-tools throttling, 20 loads, record p95",planned
 NFR-ACCS-05,non-functional,Must, available to download as a packaged ZIP file from the GitHub page ,Ch4 accessability,,T-101,"dev-tools throttling, 20 loads, record p95",planned
 NFR-PORT-06,non-functional,Should, download and/or relocate the tool (and its files) to any directory on the device ,Ch4 portability,,T-101,"dev-tools throttling, 20 loads, record p95",planned
-NFR-USE-07,non-functional,Should, ,Ch4 ,,T-101,"dev-tools throttling, 20 loads, record p95",planned
-NFR-PERF-08,non-functional,Should, ,Ch4 ,,T-101,"dev-tools throttling, 20 loads, record p95",planned
+NFR-USE-07,non-functional,Must, easy to use for people experienced in creating a soundfont from ROM files and simple enough for those new to making these files,Ch4 usability,,T-101,"dev-tools throttling, 20 loads, record p95",planned
+NFR-REL-08,non-functional,Should, use the exported SoundFont they created in a Music App such as FL Studio or GarageBand ,candicdate interview 2 ,,T-101,"dev-tools throttling, 20 loads, record p95",planned
 NFR-PERF-09,non-functional,Should, ,Ch4 ,,T-101,"dev-tools throttling, 20 loads, record p95",planned
 NFR-PERF-10,non-functional,Should, ,Ch4 ,,T-101,"dev-tools throttling, 20 loads, record p95",planned
 NFR-PERF-11,non-functional,Should, ,Ch4 ,,T-101,"dev-tools throttling, 20 loads, record p95",planned
