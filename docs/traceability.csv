@@ -1,5 +1,24 @@
 req_id,type,priority,requirement,source,design_element,test_id,measurement_method,status
-FR-001,functional,Must, Extract Instruments from ROM files by importing them from their system files to the tool ,my own choice,AddItemForm + POST /items,T-001,acceptance criteria AC-001..003,planned
-FR-002,functional,Must, Understand the data location of a ROM when the user imports the file into the tool ,my own choice,PantryListView + GET /items,T-002,acceptance criteria AC-004..005,planned
+FR-001,functional,Must, Extract Instruments from ROM files by importing them from their system files to the tool ,my own decision,AddItemForm + POST /items,T-001,acceptance criteria AC-001..003,planned
+FR-002,functional,Must, Understand the data location of a ROM when the user imports the file into the tool ,my own decision,PantryListView + GET /items,T-002,acceptance criteria AC-004..005,planned
+FR-003,functional,Must, Map Instruments from the Samples when it finds the data for them so that they can be implemented with a MIDI key-ranged instrument., my own decision,ItemRow action menu,T-003,acceptance criteria AC-006,planned
+
+
+
+
+
+
+
 
 NFR-PERF-01,non-functional,Must,p95 load of the pantry list under 1.5 s with 200 seeded records on a throttled Fast-3G profile,Ch4 performance,PantryListView + list index,T-101,"dev-tools throttling, 20 loads, record p95",planned
+
+
+
+
+
+
+
+
+
+
+
