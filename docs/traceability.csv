@@ -3,12 +3,11 @@ FR-001,functional,Must, Extract Instruments from ROM files by importing them fro
 FR-002,functional,Must, Understand the data location of a ROM when the user imports the file into the tool ,my own decision,PantryListView + GET /items,T-002,acceptance criteria AC-004..005,planned
 FR-003,functional,Must, Map Instruments from the Samples when it finds the data for them so that they can be implemented with a MIDI key-ranged instrument., my own decision,ItemRow action menu,T-003,acceptance criteria AC-006,planned
 
+FR-004,functional,Should,A user can look up an item by scanning or typing a barcode,stakeholder interview 2,BarcodeLookupService,,acceptance criteria AC-007,planned
 
+FR-005,functional,Should,A household can share one pantry between multiple accounts,stakeholder interview 1,,,acceptance criteria AC-008..009,planned
 
-
-
-
-
+FR-006,functional,Could,The app suggests one recipe from items expiring within three days,stakeholder interview 1,RecipeSuggestionService,T-006,acceptance criteria AC-010,planned
 
 NFR-PERF-01,non-functional,Must,p95 load of the pantry list under 1.5 s with 200 seeded records on a throttled Fast-3G profile,Ch4 performance,PantryListView + list index,T-101,"dev-tools throttling, 20 loads, record p95",planned
 
