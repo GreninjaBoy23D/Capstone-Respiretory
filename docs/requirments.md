@@ -201,10 +201,10 @@ with one line of reasoning. A short list here means you have not thought hard en
 ## 11. Assumptions
 | Assumption | By Date...| What if it's false |
 |---|---|---|
-|---|12-5-2026|---|
-|---|12-5-2026|---|
-|---|12-5-2026|---|
-|---|12-5-2026|---|
+|The video game ROM file is well known and can be reverse-engineered | 12-5-2026 | --- |
+|The samples metadata is recoverable |12-5-2026|---|
+|Instruments can be mapped to MIDI formats |12-5-2026|---|
+|Copyright is outside of the tool |12-5-2026|---|
 
 ## 12. Dependencies
 | Dependancy | Version| Failure Mode | Fallback |
