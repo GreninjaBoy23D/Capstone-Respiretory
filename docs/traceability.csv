@@ -16,6 +16,17 @@ NFR-PRIV-01,non-functional,Won't, use personal information from a user's compute
 NFR-SEC-02,non-functional,Should, freely usable without the need for a password or any other security protocol to access it ,Ch4 security,,T-101,"dev-tools throttling, 20 loads, record p95",planned
 NFR-PERF-03,non-functional,Should, run without needing much memory or processing power on the device,Ch4 perfromance,,T-101,"dev-tools throttling, 20 loads, record p95",planned
 
+NFR-PERF-04,non-functional,Should, ,Ch4 ,,T-101,"dev-tools throttling, 20 loads, record p95",planned
+NFR-PERF-05,non-functional,Should, ,Ch4 ,,T-101,"dev-tools throttling, 20 loads, record p95",planned
+NFR-PERF-06,non-functional,Should, ,Ch4 ,,T-101,"dev-tools throttling, 20 loads, record p95",planned
+NFR-PERF-07,non-functional,Should, ,Ch4 ,,T-101,"dev-tools throttling, 20 loads, record p95",planned
+NFR-PERF-08,non-functional,Should, ,Ch4 ,,T-101,"dev-tools throttling, 20 loads, record p95",planned
+NFR-PERF-09,non-functional,Should, ,Ch4 ,,T-101,"dev-tools throttling, 20 loads, record p95",planned
+NFR-PERF-10,non-functional,Should, ,Ch4 ,,T-101,"dev-tools throttling, 20 loads, record p95",planned
+NFR-PERF-11,non-functional,Should, ,Ch4 ,,T-101,"dev-tools throttling, 20 loads, record p95",planned
+NFR-PERF-12,non-functional,Should, ,Ch4 ,,T-101,"dev-tools throttling, 20 loads, record p95",planned
+
+
 
 
 
