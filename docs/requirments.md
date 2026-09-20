@@ -209,8 +209,8 @@ with one line of reasoning. A short list here means you have not thought hard en
 ## 12. Dependencies
 | Dependancy | Version| Failure Mode | Fallback |
 |---|---|---|---|
-|C++|1.0|---|---|
-|SF2 writer/parser|1.0|---|---|
-|libsamplerate|0.2.2|---|---|
+|C++|1.0| Unproper coding| Fixing the code in order for the app to be fully usable.|
+|SF2 writer/parser|1.0| | Manual item entry; app remains fully usable |
+|libsamplerate|0.2.2| Requirements for the dependency and implementation of it in the tool. | Manual item entry; app remains fully usable|
 
 ## 13. Obligations
