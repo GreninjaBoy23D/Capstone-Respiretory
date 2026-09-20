@@ -196,13 +196,19 @@ with one line of reasoning. A short list here means you have not thought hard en
 |Non-Profit| Self | No money will be made from the tool's release or use; it is free and open-source for everyone.|
 |Baron Budget - Little to not a lot of money will be spent on this project| Self |The need for a big budget for the tool.|
 |Solo Developer -  no teammate to cover a bad week| Course | Any plan with no slack.|
+|240 hours of effort across 16 weeks| Course |A second client application; a custom design system|
 
 ## 11. Assumptions
 | Assumption | By Date...| What if it's false |
-|---|---|---|
+|---|12-5-2026|---|
+|---|12-5-2026|---|
+|---|12-5-2026|---|
+|---|12-5-2026|---|
 
 ## 12. Dependencies
 | Dependancy | Version| Failure Mode | Fallback |
+|---|---|---|---|
+|---|---|---|---|
 |---|---|---|---|
 
 ## 13. Obligations
