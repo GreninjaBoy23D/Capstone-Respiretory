@@ -209,8 +209,8 @@ with one line of reasoning. A short list here means you have not thought hard en
 ## 12. Dependencies
 | Dependancy | Version| Failure Mode | Fallback |
 |---|---|---|---|
-|---|---|---|---|
-|---|---|---|---|
-|---|---|---|---|
+|C++|1.0|---|---|
+|---|1.0|---|---|
+|---|1.0|---|---|
 
 ## 13. Obligations
