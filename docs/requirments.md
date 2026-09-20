@@ -143,32 +143,22 @@ The tool MUST be easy to use for people experienced in creating a soundfont from
 
 The user SHOULD be able to use the exported SoundFont they created in a Music App such as FL Studio or GarageBand.
 - Category: Reliability.
-- Given that..., when..., then....
-- Given that..., when..., then....
 - **Source:** Inspired by one of my candidates' responses.
 
 The tool SHOULD be able to separate the SoundFont file from the operating system itself, leaving it independent when it is created. 
 - Category: Portability.
-- Given that..., when..., then....
-- Given that..., when..., then....
 - **Source:** Outside Source
 
 The user SHOULD be able to convert the ROM into a SoundFont without the the need to know about the ROM's structure.
 - Category: Usability.
-- Given that..., when..., then....
-- Given that..., when..., then....
 - **Source:** Outside Source
 
 The user should be able to edit the SoundFont they have created from the tool using applications like PolyPhone.
 - Category: Accessibility.
-- Given that..., when..., then....
-- Given that..., when..., then....
 - **Source:** My Own Choice
 
 The user MUST be able to provide file paths for the tool so that it can handle SoundFonts safely in order to prevent unintended access or overwriting.
 - Category: Security.
-- Given that..., when..., then....
-- Given that..., when..., then....
 - **Source:** My Own Choice
 
 ## 7. Out of Scope (the Won't-Have List)
@@ -198,3 +188,10 @@ with one line of reasoning. A short list here means you have not thought hard en
 | Date | Version | Change | Reason |
 |---|---|---|---|
 | 2026-09-09 | 1.0 | Initial specification | Milestone 3 |
+
+
+## 10. Constraints
+
+## 11. Assumptions
+
+## 12. Dependencies
