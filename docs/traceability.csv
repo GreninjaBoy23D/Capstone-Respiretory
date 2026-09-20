@@ -4,7 +4,7 @@ FR-002,functional,Must, Understand the data location of a ROM when the user impo
 FR-003,functional,Must, Map Instruments from the Samples when it finds the data for them so that they can be implemented with a MIDI key-ranged instrument., my own decision, ,T-003,acceptance criteria AC-006,planned
 FR-004,functional,Won't,allow you to import multiple ROM files to create your own custom SoundFont, my own decision, , ,acceptance criteria AC-007,planned
 FR-005,functional,Should,rename an instrument from the extracted samples when clicking on an instrument and double tapping the name , my own decision, ,acceptance criteria AC-008..009,planned
-FR-006,functional,Should,Play a preview of the instrument from the extracted samples when clicking on an instrument and hitting a PLAY Button , ,T-006,acceptance criteria AC-010,planned
+FR-006,functional,Should,Play a preview of the instrument from the extracted samples when clicking on an instrument and hitting a PLAY Button , , , ,T-006,acceptance criteria AC-010,planned
 NFR-PERF-01,non-functional,Must,p95 load of the pantry list under 1.5 s with 200 seeded records on a throttled Fast-3G profile,Ch4 performance,PantryListView + list index,T-101,"dev-tools throttling, 20 loads, record p95",planned
 
 
