@@ -12,9 +12,9 @@ FR-010,functional,Should,have certain instruments have loops when exported as a 
 FR-011,functional,Should,Handle Errors when it fails to convert ROM's for SoundFonts while still being able to function,my own decision,,,acceptance criteria AC-008..009,planned
 FR-012,functional,Should, Log reports and data ,my own decision,,T-006,acceptance criteria AC-010,planned
 
-NFR-PERF-01,non-functional,Won't,use personal information from a user's computer software (such as an IPv4 Address and any Social Security Number) when the tool is used,Ch4 security,,T-101,"dev-tools throttling, 20 loads, record p95",planned
-
-
+NFR-PRIV-01,non-functional,Won't, use personal information from a user's computer software (such as an IPv4 Address and any Social Security Number) when the tool is used,Ch4 privacy,,T-101,"dev-tools throttling, 20 loads, record p95",planned
+NFR-SEC-02,non-functional,Should, freely usable without the need for a password or any other security protocol to access it ,Ch4 security,,T-101,"dev-tools throttling, 20 loads, record p95",planned
+NFR-SEC-03,non-functional,Should, run without needing much memory or processing power on the device,Ch4 perfromance,,T-101,"dev-tools throttling, 20 loads, record p95",planned
 
 
 
