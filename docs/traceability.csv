@@ -9,9 +9,9 @@ FR-006,functional,Should, Play a preview of the instrument from the extracted sa
 FR-007,functional,Must, create the SoundFont file from the extracted samples by compiling them into a packaged SF2 file format ,my own decision, ,T-001,acceptance criteria AC-001..003,planned
 FR-008,functional,Must, export a SoundFont file from this Tool to their computer's file storage after converting the samples into a SoundFont ,my own decision, ,T-002,acceptance criteria AC-004..005,planned
 FR-009,functional,Won't, group samples categorically when the SoundFont is made, my own decision, ,T-003,acceptance criteria AC-006,planned
-FR-010,functional,Won't,allow you to import multiple ROM files to create your own custom SoundFont, my own decision, , ,acceptance criteria AC-007,planned
-FR-011,functional,Should,rename an instrument from the extracted samples when clicking on an instrument and double tapping the name,my own decision,,,acceptance criteria AC-008..009,planned
-FR-012,functional,Should, Play a preview of the instrument from the extracted samples when clicking on an instrument and hitting a PLAY Button ,my own decision,,T-006,acceptance criteria AC-010,planned
+FR-010,functional,Should,have certain instruments have loops when exported as a SoundFont when using the newly made SoundFont , my own decision, , ,acceptance criteria AC-007,planned
+FR-011,functional,Should,Handle Errors when it fails to convert ROM's for SoundFonts while still being able to function,my own decision,,,acceptance criteria AC-008..009,planned
+FR-012,functional,Should, Log reports and data ,my own decision,,T-006,acceptance criteria AC-010,planned
 
 NFR-PERF-01,non-functional,Must,p95 load of the pantry list under 1.5 s with 200 seeded records on a throttled Fast-3G profile,Ch4 performance,PantryListView + list index,T-101,"dev-tools throttling, 20 loads, record p95",planned
 
