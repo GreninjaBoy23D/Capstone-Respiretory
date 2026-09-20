@@ -8,7 +8,7 @@ FR-003,functional,Must, Map Instruments from the Samples when it finds the data 
 
 FR-004,functional,Won't,allow you to import multiple ROM files to create your own custom SoundFont, my own decision, , ,acceptance criteria AC-007,planned
 
-FR-005,functional,Should,rename an instrument from the extracted samples when clicking on an instrument and double tapping the name , my own decision,,,acceptance criteria AC-008..009,planned
+FR-005,functional,Should,rename an instrument from the extracted samples when clicking on an instrument and double tapping the name , my own decision, , ,acceptance criteria AC-008..009,planned
 
 FR-006,functional,Should,Play a preview of the instrument from the extracted samples when clicking on an instrument and hitting a PLAY Button , ,T-006,acceptance criteria AC-010,planned
 
