@@ -12,3 +12,4 @@ date,start,end,hours,phase,hat,task,estimate_hours,blocked_hours,notes
 2026-09-12,09:00,10:30,5.0,requirements,release-engineer, updated charter,5.0,0.00,
 2026-09-16,09:00,10:30,5.0,requirements,release-engineer, read Chapter 5 + created non-functional requirments for requirments.md,5.0,0.00,
 2026-09-17,09:00,10:30,3.0,requirements,release-engineer, on-page quiz + updated requirments.md,3.0,0.00,
+2026-09-19,09:00,10:30,3.0,requirements,release-engineer, created traceability.csv + created defintion-of-done.md + updated log hours,3.0,0.00,
