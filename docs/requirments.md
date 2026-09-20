@@ -191,10 +191,11 @@ with one line of reasoning. A short list here means you have not thought hard en
 
 
 ## 10. Constraints
-| Constraint | What is ruled out |
-|---|---|
-|Non-Profit| No money will be made from the tool's release or use; it is free and open-source for everyone.|
-|Baron Budget|Little to not a lot of money will be spent on this project, as it is a tool for public use, making it a smaller scope.|
+| Constraint | Source| What is ruled out |
+|---|---|---|
+|Non-Profit| Self | No money will be made from the tool's release or use; it is free and open-source for everyone.|
+|Baron Budget - Little to not a lot of money will be spent on this project| Self |The need for a big budget for the tool.|
+|Solo Developer -  no teammate to cover a bad week| Course | Any plan with no slack.|
 
 ## 11. Assumptions
 | Assumption | By Date...| What if it's false |
