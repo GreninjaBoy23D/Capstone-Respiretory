@@ -16,9 +16,9 @@ Weighted Evaluation
 Seam Inventory
 | Seam |  What has to work | Crossed it before? | Risk |
 | --- |  --- | --- | --- |
-| --- |  --- | --- | --- |
-| --- |  --- | --- | --- |
-| --- |  --- | --- | --- |
-| --- |  --- | --- | --- |
-| --- |  --- | --- | --- |
-| --- |  --- | --- | --- |
+| App to Database |  --- | --- | --- |
+| App to API |  --- | --- | --- |
+| App to API Provider |  --- | --- | --- |
+| CI to tests |  --- | --- | --- |
+| CI to host |  --- | --- | --- |
+| Browser to App |  --- | --- | --- |
