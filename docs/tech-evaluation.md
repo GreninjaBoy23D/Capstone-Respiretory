@@ -12,3 +12,13 @@ Weighted Evaluation
 |Program| Supports required functions and adjacencies. |25%|---|---|
 |Data Storage| Allows the tool to be able to go through data imported by ROMs | 15% | --- | --- |
 |User Response | Responds to ROM imports, acts of conversion, and exports. |10%|---|---|
+
+Seam Inventory
+| Seam |  What has to work | Crossed it before? | Risk |
+| --- |  --- | --- | --- |
+| --- |  --- | --- | --- |
+| --- |  --- | --- | --- |
+| --- |  --- | --- | --- |
+| --- |  --- | --- | --- |
+| --- |  --- | --- | --- |
+| --- |  --- | --- | --- |
