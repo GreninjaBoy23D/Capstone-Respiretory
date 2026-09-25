@@ -22,3 +22,5 @@ Seam Inventory
 | CI to tests |  --- | --- | --- |
 | CI to host |  --- | --- | --- |
 | Browser to App |  --- | --- | --- |
+
+Novelty Load
