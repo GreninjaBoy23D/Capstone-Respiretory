@@ -4,4 +4,3 @@
 |File Data Access| Functional | The tool must decode ROM files and find samples|
 |---|---|---|
 |---|---|---|
-|---|---|---|
