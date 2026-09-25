@@ -7,8 +7,8 @@ Architectural Drivers
 |Conversion| Functional | Converts the extracted ROM samples into a compiled SoundFont file that can be exported|
 
 Weighted Evaluation
-| Evaluation Criteria | Weight | Option A | Option B | 
-|---|---|---|---|
-|---|---|---|---|
-|---|---|---|---|
-|---|---|---|---|
+| Evaluation Criteria |  Why it matters | Weight | Option A | Option B | 
+|---|---|---|---|---|
+|---|---|---|---|---|
+|---|---|---|---|---|
+|---|---|---|---|---|
