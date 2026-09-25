@@ -9,6 +9,6 @@ Architectural Drivers
 Weighted Evaluation
 | Evaluation Criteria |  Why it matters | Weight | Option A | Option B | 
 |---|---|---|---|---|
-|---|---|---|---|---|
-|---|---|---|---|---|
-|---|---|---|---|---|
+|Program| Supports required functions and adjacencies. |25%|---|---|
+|Data Storage| Allows the tool to be able to go through data imported by ROMs | 15% | --- | --- |
+|User Responce|---|10%|---|---|
