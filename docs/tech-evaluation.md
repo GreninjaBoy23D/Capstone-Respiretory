@@ -16,11 +16,11 @@ Weighted Evaluation
 Seam Inventory
 | Seam |  What has to work | Crossed it before? | Risk |
 | --- |  --- | --- | --- |
-| App to Database |  --- | --- | --- |
-| App to API |  --- | --- | --- |
-| App to API Provider |  --- | --- | --- |
-| CI to tests |  --- | --- | --- |
-| CI to host |  --- | --- | --- |
-| Browser to App |  --- | --- | --- |
+| App to Database |  Driver + migration tools | --- | --- |
+| App to API |  Auth scheme, rate limit, response shape, terms of use | --- | --- |
+| App to API Provider |  SDK version, timeout, streaming, cost per call | --- | --- |
+| CI to tests |  Test runner needs a live database in the runner | --- | --- |
+| CI to host |  Deploy credentials, build artifact format | --- | --- |
+| Browser to App |  Session cookie behaviour over the host’s TLS/proxy | --- | --- |
 
 Novelty Load
