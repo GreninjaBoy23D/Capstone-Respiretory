@@ -1,4 +1,4 @@
-# Spike SP-NN — Does the tool 
+# Spike SP-NN — ROM Format
 
 <!--
 A spike is the smallest experiment that turns an unknown into a known.
@@ -8,17 +8,15 @@ any of it, say so in the Result section so the next reader knows.
 Copy to docs/spikes/SP-NN-kebab-title.md. Delete the comments before committing.
 -->
 
-- **Unknown:** <the thing you do not know and cannot decide without>
+- **Unknown:** Determining how the ROM stores samples and instruments.
 - **Feeds:** <ADR NNNN — the decision this spike unblocks>
-- **Requirements at risk:** <FR-### / NFR-###>
-- **Time box:** <90 minutes | 2 hours | 4 hours — and you stop when it rings>
+- **Requirements at risk:** <FR-#1 #2  / NFR-#2>
+- **Time box:** 90 minutes (1 hour, 30 minutes)
 - **Run on:** 2026-11-20
 
 ## The question
 
-<!-- ONE sentence, answerable yes/no or with a number. Bad: "Try the barcode
-API." Good: "Does the barcode API return a product name for at least 8 of the
-10 items in my kitchen, within 1 second each, on the free tier?" -->
+How does a ROM file store in samples and instruments, and if so, where is it located in?
 
 ## The smallest thing that answers it
 
@@ -51,37 +49,3 @@ Include what surprised you — that is usually the real finding. -->
 ADR, the risk register, and your hours log. -->
 
 ---
-
-## Worked example — PantryPilot, Spike SP-02
-
-- **Unknown:** Will the barcode/product-lookup API actually recognise ordinary groceries?
-- **Feeds:** ADR 0004 — product lookup: third-party API vs. manual entry only
-- **Requirements at risk:** FR-005, FR-006, NFR-P-01
-- **Time box:** 90 minutes
-- **Run on:** 2026-02-10
-
-**The question.** Does the free tier of the candidate product API return a usable
-product name for at least 8 of 10 randomly chosen items in my own kitchen, in
-under 1 second per lookup?
-
-**The smallest thing that answers it.** A single script that reads ten barcodes
-from a text file, calls the lookup endpoint, prints name and elapsed time. No
-database, no UI, no error handling beyond printing the status code.
-
-**Success criterion.** 8 or more of 10 return a name; median latency under 1 s.
-
-**Failure criterion.** Fewer than 8 hits, OR any rate limit hit inside ten calls,
-OR terms of use that forbid storing the returned product names.
-
-**Plan B if it fails.** Manual entry (FR-004) becomes the only path; FR-005 drops
-from Must to Could; the ADR records the scan feature as out of scope for v1.
-
-**Result.** 7 of 10 returned a name. Median latency 340 ms — latency is fine.
-The three misses were store-brand items, which is most of what this household
-buys. Surprise finding: the response included a category field I had not planned
-for, which would satisfy FR-011's recipe matching better than my own tagging.
-
-**Decision.** Fall back — partly. Manual entry is the primary path and the API
-becomes an *assist* that pre-fills the form the user can correct. FR-005 rewritten
-with the human correction step in its acceptance criteria. ADR 0004 written the
-same day; the risk register entry R-04 closed; 1.5 h logged.
