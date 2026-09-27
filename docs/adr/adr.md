@@ -1,18 +1,9 @@
-# ADR NNNN — <A short noun phrase naming the decision, not the technology>
-
-<!--
-Copy this file to docs/adr/NNNN-kebab-case-title.md in your repository.
-Number sequentially from 0001. Never renumber; never delete an ADR.
-An ADR is immutable once accepted: if the decision changes, write a NEW ADR
-and set this one's status to Superseded by ADR NNNN.
-Format after Michael Nygard, "Documenting Architecture Decisions" (2011).
-Delete every comment block before you commit.
--->
+# ADR NNNN — File Data Access
 
 - **Status:** Proposed
 - **Date:** 2026-09-24
 - **Decider:** Kevin Xiong
-- **Requirements affected:** <FR-###, NFR-###, … the identifiers from `docs/requirements.md`>
+- **Requirements affected:** <FR-#1 #2, NFR-#2 ,… the identifiers from `docs/requirements.md`>
 - **Related ADRs:** <numbers of ADRs this one depends on or constrains>
 
 ## Context
