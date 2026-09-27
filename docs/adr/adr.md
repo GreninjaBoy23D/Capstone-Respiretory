@@ -4,7 +4,7 @@
 - **Date:** 2026-09-24
 - **Decider:** Kevin Xiong
 - **Requirements affected:** FR-#1 #2, NFR-#2 ,… the identifiers from `docs/requirements.md`
-- **Related ADRs:** <numbers of ADRs this one depends on or constrains>
+- **Related ADRs:** None
 
 ## Context
 
