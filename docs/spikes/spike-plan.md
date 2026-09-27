@@ -1,4 +1,4 @@
-# Spike SP-NN — <the unknown, named as a question>
+# Spike SP-NN — Does the tool 
 
 <!--
 A spike is the smallest experiment that turns an unknown into a known.
