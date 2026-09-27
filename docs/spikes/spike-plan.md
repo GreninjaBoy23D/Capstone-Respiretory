@@ -12,7 +12,7 @@ Copy to docs/spikes/SP-NN-kebab-title.md. Delete the comments before committing.
 - **Feeds:** <ADR NNNN — the decision this spike unblocks>
 - **Requirements at risk:** <FR-### / NFR-###>
 - **Time box:** <90 minutes | 2 hours | 4 hours — and you stop when it rings>
-- **Run on:** YYYY-MM-DD
+- **Run on:** 2026-11-20
 
 ## The question
 
