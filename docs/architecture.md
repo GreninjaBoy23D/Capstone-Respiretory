@@ -31,10 +31,10 @@ Out of scope: Since this tech specification is focused on extracting samples fro
 |Import Manager|Manages the imported file|The imported ROm file from the user|The file the user imports|FR-001|
 |Sample Extractor|extract samples|ROM file|navigating the ROM file|FR-001, FR-002|
 
-## 5. ROM Loader
+## 5. Interface Contracts
 One block per interface serving a Must requirement. Eight facts each.
 
-### Error Handler                                         (serves FR-11)
+### ROM Loader                                         (serves FR-1)
 
 Purpose:     Loads up the imported ROM file onto the tool.
 
@@ -46,7 +46,7 @@ Success:      200: ROM file detected.
 
 Errors:       401: Incompatible file type; 404: Unable to import ROM.
 
-Idempotency:  After an error, the tool asks you to press any key to close the tool.
+Idempotency:  After an error occurs, the client has to press any key to close the tool so that it can start over again.
 
 Side effects <what it writes, sends, or spends>
 
