@@ -1,6 +1,6 @@
-# Technical Specification — <Project Name>
+# Technical Specification — ROM to SoundFont Converter
 
-Version: v0.1   Date: <YYYY-MM-DD>   Author: <you>   Status: Draft / Baselined
+Version: v0.1   Date: 2026-10-02   Author: Kevin Xiong   Status: Draft
 Requirements baseline this design satisfies: docs/requirements.md <version>
 
 ## 1. Purpose and Scope
