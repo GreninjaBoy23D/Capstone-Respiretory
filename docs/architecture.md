@@ -15,13 +15,11 @@ In scope: FR-001, FR-002, FR-003, FR-005, FR-006, FR-007, FR-008
 Out of scope: Since this tech specification is focused on extracting samples from ROM files, converting the samples into a SoundFont will be unavailable for this part of the tool.
 
 ## 2. System Context (Level 1)
-Diagram: docs/diagrams/context.<src> + context.png
 | External actor / system | What it does with us | Protocol | If it is unavailable |
 |---|---|---|---|
 |---|---|---|---|
 
 ## 3. Containers (Level 2)
-Diagram: docs/diagrams/containers.<src> + containers.png
 | Container | Responsibility (one sentence) | Technology | Runs where | Holds secrets? |
 |---|---|---|---|---|
 Trust boundary: <what runs on the user's machine vs. yours; where secrets live>
