@@ -31,14 +31,14 @@ Out of scope: Since this tech specification is focused on extracting samples fro
 |Import Manager|Manages the imported file|The imported ROm file from the user|The file the user imports|FR-001|
 |Sample Extractor|extract samples|ROM file|navigating the ROM file|FR-001, FR-002|
 
-## 5. Interface Contracts
+## 5. ROM Loader
 One block per interface serving a Must requirement. Eight facts each.
 
-### The User                                         (serves FR-1, 5, and 6)
+### Error Handler                                         (serves FR-11)
 
-Purpose:     The one who interacts with the tool.
+Purpose:     Loads up the imported ROM file onto the tool.
 
-Auth         <who may call; what happens to who may not>
+Auth:         Import ROM File; 401 if importing a non-compatible ROM file or other files.
 
 Request      <every field: type, required/optional, validation rule>
 
