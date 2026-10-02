@@ -34,8 +34,9 @@ Every piece of state has exactly one owner: <yes / what you fixed>
 ## 5. Interface Contracts
 One block per interface serving a Must requirement. Eight facts each.
 
-### <NAME>                                         (serves FR-__)
+### The User                                         (serves FR-1, 5, and 6)
 Purpose      <one line>
+
 Auth         <who may call; what happens to who may not>
 Request      <every field: type, required/optional, validation rule>
 Success      <exact shape + one example>
