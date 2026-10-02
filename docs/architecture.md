@@ -38,11 +38,11 @@ One block per interface serving a Must requirement. Eight facts each.
 
 Purpose:     Loads up the imported ROM file onto the tool.
 
-Auth:         Import ROM File; 401 if importing a non-compatible ROM file or other files.
+Auth:         User input required; 401 if importing a non-compatible ROM file or other files.
 
-Request      <every field: type, required/optional, validation rule>
+Request:      ROM file, ROM size, and Platform/Console type
 
-Success      <exact shape + one example>
+Success      200: ROM has been imported to this tool. 
 
 Errors       <every failure: code, condition, body>
 
