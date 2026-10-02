@@ -64,13 +64,16 @@ One block per interface serving a Must requirement. Eight facts each.
 Purpose: An editor for the extracted audio samples
 |ID|Type|NULL/NOT NULL|Constraints|
 |---|---|---|---|
-|name|text|---|---|
-|sample_rate|integer|---|---|
-|channel|uuid|---|---|
-|loop_point|uuid|---|---|
-|key_range|uuid|---|---|
+|name|text|NULL|---|
+|sample_rate|integer|NULL|---|
+|channel|uuid|NOT NULL|---|
+|loop_point|uuid|NOT NULL|---|
+|key_range|uuid|NULL|---|
 
-Invariants     I1 ... I2 ...
+Invariants     
+I1 - Sample Data is preserved;
+I2 - Every instrument references valid samples; No instrument, preset, or region references a nonexistent sample.
+I3 - Samples have valid boundries; start_offset >= 0 and start_offset + length <= ROM_size.
 
 Relationships  <cardinality>
 
