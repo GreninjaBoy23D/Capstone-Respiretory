@@ -35,14 +35,21 @@ Every piece of state has exactly one owner: <yes / what you fixed>
 One block per interface serving a Must requirement. Eight facts each.
 
 ### The User                                         (serves FR-1, 5, and 6)
-Purpose      <one line>
+
+Purpose:     The one who interacts with the tool.
 
 Auth         <who may call; what happens to who may not>
+
 Request      <every field: type, required/optional, validation rule>
+
 Success      <exact shape + one example>
+
 Errors       <every failure: code, condition, body>
+
 Idempotency  <what happens on a repeat>
+
 Side effects <what it writes, sends, or spends>
+
 Limits       <payload size, rate, pagination>
 
 Error envelope used system-wide: <one shape, decided once>
