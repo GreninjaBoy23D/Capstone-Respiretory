@@ -78,9 +78,9 @@ I2 - Every instrument references valid samples; No instrument, preset, or region
 
 I3 - Samples have valid boundries; start_offset >= 0 and start_offset + length <= ROM_size.
 
-Relationships  <cardinality>
+Relationships  household 1 ──< item >── 0..1 product
 
-Volume         <rows now, rows by Week 16>
+Volume         ~200 rows/household · 6 households · ~50 new rows/week
 
 Lifecycle      <created when; deleted how — hard/soft, cascade/restrict>
 
