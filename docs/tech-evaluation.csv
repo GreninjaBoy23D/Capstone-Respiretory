@@ -1,7 +1,4 @@
 decision,criterion,weight,option,score,evidence
-# Long format: one row per (decision, option, criterion). Scores are 0-5.
-# Weights within a decision must sum to 1.00. Every row needs evidence.
-# Worked example: PantryPilot. Replace every row with your own project.
 data-store,fits the data model (FR-007 FR-011),0.30,PostgreSQL,5,"both queries are one join; planner does the work"
 data-store,fits the data model (FR-007 FR-011),0.30,SQLite,4,"same SQL; single-writer limit is the risk not the model"
 data-store,fits the data model (FR-007 FR-011),0.30,MongoDB,2,"FR-011 becomes a hand-written join in app code"
