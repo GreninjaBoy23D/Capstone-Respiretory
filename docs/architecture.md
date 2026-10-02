@@ -1,10 +1,10 @@
-# Technical Specification — ROM to SoundFont Converter
+# Technical Specification — ROM to Sample Extractor
 
 Version: v0.1   Date: 2026-10-02   Author: Kevin Xiong   Status: Draft
 Requirements baseline this design satisfies: docs/requirements.md <version>
 
 ## 1. Purpose and Scope
-This system is able to convert samples into a SoundFont file from a game's ROM file. It uses users' game ROM files that they import into the tool so that it can extract samples. A user can be able to edit the name of the sample and be able to play the sample in a test. The user then converts the samples into a packaged SoundFont file, which they can export onto their computer files.
+This system is able to convert samples into a SoundFont file from a game's ROM file. It uses users' game ROM files that they import into the tool so that it can extract samples. The tool goes through the ROM's internal files to locate the samples in order to extract it to the tool. A user can be able to edit the name of the sample and be able to play the sample in a test.
 In scope:      <the features this design covers, by requirement ID>
 Out of scope:  <what you are deliberately not building, and why. Say it once, here.>
 
