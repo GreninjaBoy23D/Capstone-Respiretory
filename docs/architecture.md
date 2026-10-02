@@ -82,14 +82,6 @@ Relationships  household 1 ──< item >── 0..1 product
 
 Volume         ~200 rows/household · 6 households · ~50 new rows/week
 
-Lifecycle      <created when; deleted how — hard/soft, cascade/restrict>
-
-### Migrations
-Mechanism      <tool, or numbered SQL applied in order + schema_migrations>
-Direction      <forward-only / reversible>
-Path + runner  migrations/0001-....sql, applied by <script>
-Conventions    <timestamps UTC; money in minor units; enums constrained>
-
 ## 7. Sequence Flows
 ### Flow 1 — <the money path>                      (serves FR-__)
 Numbered steps with participants and data.
