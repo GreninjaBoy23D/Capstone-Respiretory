@@ -56,7 +56,7 @@ One block per interface serving a Must requirement. Eight facts each.
 |Errors|404 Samples not found.|
 |Idempotency|After an error occurs, the client is prompted by the tool to press any key to close the tool for a new session.|
 |Side effects|Navigates through the ROM's internal files, and extracts the audio samples from the ROM|
-|Limits|ROM navigation and extraction to 2- 10 minutes minimum per session.|
+|Limits|ROM navigation and extraction to 3- 10 minutes minimum per session.|
 
 ## 6. Data Model
 ### Entity: <name>                                 (serves FR-__)
