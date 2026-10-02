@@ -25,8 +25,6 @@ Out of scope: Since this tech specification is focused on extracting samples fro
 |---|---|---|---|---|
 |API Service|The interface of the tool that opens up a Command Prompt-like tab when you open up the app from your file folder of the tool. |Command Prompt|A Command Prompt dedicated to the tool (located in the computer files itself). |No|
 
-Trust boundary: <what runs on the user's machine vs. yours; where secrets live>
-
 ## 4. Components (Level 3 — for the container with the hard part only)
 | Component | Responsibility (verb first) | Owns (state) | Depends on | Serves (req IDs) |
 |---|---|---|---|---|
