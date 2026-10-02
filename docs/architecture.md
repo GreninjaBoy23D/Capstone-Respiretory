@@ -59,7 +59,12 @@ One block per interface serving a Must requirement. Eight facts each.
 |Limits|ROM navigation and extraction to 3- 10 minutes minimum per session.|
 
 ## 6. Data Model
-### Entity: <name>                                 (serves FR-__)
+### Entity: ROM Samples                              (serves FR-__)
+
+|Facts|Answers|
+|---|---|
+|Purpose|---|
+|Invariants|---|
 Purpose        <one line: what one row IS in the real world>
   <column>  <type>  <NULL/NOT NULL>  <constraint / meaning of NULL>
 Invariants     I1 ... I2 ...
