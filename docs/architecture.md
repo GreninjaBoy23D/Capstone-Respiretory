@@ -4,7 +4,7 @@ Version: v0.1   Date: 2026-10-02   Author: Kevin Xiong   Status: Draft
 Requirements baseline this design satisfies: docs/requirements.md <version>
 
 ## 1. Purpose and Scope
-One paragraph: what this system is for. Then two lists.
+One paragraph: This system is able to convert samples into a SoundFont file from a game's ROM file.
 In scope:      <the features this design covers, by requirement ID>
 Out of scope:  <what you are deliberately not building, and why. Say it once, here.>
 
