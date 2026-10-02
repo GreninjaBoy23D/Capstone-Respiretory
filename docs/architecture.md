@@ -5,7 +5,9 @@ Requirements baseline this design satisfies: docs/requirements.md <version>
 
 ## 1. Purpose and Scope
 This system converts samples into a SoundFont file from a game's ROM file. It uses game ROM files that users import into the tool to extract samples. The tool goes through the ROM's internal files to locate the samples in order to extract it to the tool. A user can be able to edit the name of the sample and be able to play the sample in a test. Since this tech specification is focused on extracting samples from ROM files, converting the samples into a SoundFont will be unavailable for this part of the tool.
+
 In scope: FR-001, FR-002, FR-003, FR-005, FR-006
+
 Out of scope:  <what you are deliberately not building, and why. Say it once, here.>
 
 ## 2. System Context (Level 1)
