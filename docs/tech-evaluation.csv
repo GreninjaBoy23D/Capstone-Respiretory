@@ -1,7 +1,7 @@
 decision,criterion,weight,option,score,evidence
 data-store,fits the data model (FR-007 FR-011),0.30,PostgreSQL,5,"both queries are one join; planner does the work"
-file-data-access, import the ROM file into the tool (FR-#1 #2 NFR-#2), , , ,
-comatible-roms, detect the imported ROM and make sure its compatible with the tool (NFR-#4) , , , 
-audio-extraction, extract the audio samples from the ROM files (FR-#2), , , 
-sample-format, Format the audio samples in to MIDI range (FR-#3), , , 
-soundfont-conversion, generate a SoundFont using the samples extracted from the ROM (FR-#8), , , 
+file-data-access, import the ROM file into the tool (FR-#1 #2 NFR-#2),0.30,PostgreSQL,5,"both queries are one join; planner does the work"
+comatible-roms, detect the imported ROM and make sure its compatible with the tool (NFR-#4) ,0.30,PostgreSQL,5,"both queries are one join; planner does the work"
+audio-extraction, extract the audio samples from the ROM files (FR-#2),0.30,PostgreSQL,5,"both queries are one join; planner does the work"
+sample-format, Format the audio samples in to MIDI range (FR-#3),0.30,PostgreSQL,5,"both queries are one join; planner does the work"
+soundfont-conversion, generate a SoundFont using the samples extracted from the ROM (FR-#8), , , , 
