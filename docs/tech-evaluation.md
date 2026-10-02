@@ -16,11 +16,11 @@ Weighted Evaluation
 Seam Inventory
 | Seam |  What has to work | Crossed it before? | Risk |
 | --- |  --- | --- | --- |
-| App to Database |  Driver + migration tools | Yes | Medium |
-| App to API |  Auth scheme, rate limit, response shape, terms of use | No | High |
-| App to API Provider |  SDK version, timeout, streaming, cost per call | No | High |
-| CI to tests |  Test runner needs a live database in the runner | No | Medium |
-| CI to host |  Deploy credentials, build artifact format | No | Medium |
-| Browser to App |  Session cookie behaviour over the host’s TLS/proxy | Yes | Low |
+| App to ROM File |  Extracting WAV/audio samples from a ROM file. | Yes | Medium |
+| Samples to Extractor |  Must be able to organize the audio into a hierarchy | No | High |
+| ROM to Tool |  Map out the samples as Instruments, based of the type, regions, and key range. | No | Medium |
+| Insturment Builder to SoundFont Builder |  Making of the Pitch/Key Mapping for the samples. Create correct MIDI mapping | Yes | Medium |
+| SF2 Generation to SF2 Builder |  Construct the SoundFont | No | Medium |
+| Tool to Output |  Write and export the final data. | Yes | Low |
 
 Novelty Load
