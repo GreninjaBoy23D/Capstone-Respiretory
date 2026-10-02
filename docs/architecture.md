@@ -17,7 +17,8 @@ Out of scope: Since this tech specification is focused on extracting samples fro
 ## 2. System Context (Level 1)
 | External actor / system | What it does with us | Protocol | If it is unavailable |
 |---|---|---|---|
-|---|---|---|---|
+|The User|The one who calls the system and views progress on it. |Wants to convert a ROM file into an SF2 file.|The tool won't have clear instructions on what to do.|
+|The Tool|The one recieving the calls of The User|Responsible for the ROM to SF2 conversion|The User won't be able to use the tool to convert ROMS to SoundFont.|
 
 ## 3. Containers (Level 2)
 | Container | Responsibility (one sentence) | Technology | Runs where | Holds secrets? |
