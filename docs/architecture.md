@@ -46,8 +46,17 @@ One block per interface serving a Must requirement. Eight facts each.
 |Side effects|Analyzes the ROM file to make sure it is part of the compatible list before confirming it as compatible.|
 |Limits|ROM detection to 2- 10 minutes minimum per session.|
 
-Error envelope used system-wide: <one shape, decided once>
-Status-code policy: <what each code means in THIS system>
+### ROM Loader                                         (serves FR-1)
+|Facts|Answers|
+|---|---|
+|Purpose|Loads up the imported ROM file onto the tool.|
+|Auth|User input required; 401 if importing a non-compatible ROM file or other files.|
+|Request|ROM file, ROM size, and Platform/Console type|
+|Success|200: ROM file detected.|
+|Errors|401: Incompatible file type; 404: Unable to import ROM.|
+|Idempotency|After an error occurs, the client is requested by the tool to press any key to close the tool for a new session.|
+|Side effects|Analyzes the ROM file to make sure it is part of the compatible list before confirming it as compatible.|
+|Limits|ROM detection to 2- 10 minutes minimum per session.|
 
 ## 6. Data Model
 ### Entity: <name>                                 (serves FR-__)
