@@ -4,3 +4,4 @@ comatible-roms, detect the imported ROM and make sure its compatible with the to
 audio-extraction, extract the audio samples from the ROM files (FR-#2), , , , 
 sample-format, Format the audio samples in to MIDI range (FR-#3), , , , 
 soundfont-conversion, generate a SoundFont using the samples extracted from the ROM (FR-#8), , , , 
+error-handling, handle the error while still being able to function when it occurs (FR-#11), , , , 
