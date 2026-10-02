@@ -71,8 +71,11 @@ Purpose: An editor for the extracted audio samples
 |key_range|uuid|NULL|---|
 
 Invariants     
-I1 - Sample Data is preserved;
+
+I1 - Sample Data is preserved; Extracted PCM data corresponds exactly to the identified ROM sample data, unless an explicitly configured transformation is applied.
+
 I2 - Every instrument references valid samples; No instrument, preset, or region references a nonexistent sample.
+
 I3 - Samples have valid boundries; start_offset >= 0 and start_offset + length <= ROM_size.
 
 Relationships  <cardinality>
