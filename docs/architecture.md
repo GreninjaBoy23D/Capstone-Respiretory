@@ -59,17 +59,23 @@ One block per interface serving a Must requirement. Eight facts each.
 |Limits|ROM navigation and extraction to 3- 10 minutes minimum per session.|
 
 ## 6. Data Model
-### Entity: ROM Samples                              (serves FR-__)
+### Entity: Sample Editor                              (serves FR-5, FR-6)
 
-|Facts|Answers|
-|---|---|
-|Purpose|---|
-|Invariants|---|
-Purpose        <one line: what one row IS in the real world>
-  <column>  <type>  <NULL/NOT NULL>  <constraint / meaning of NULL>
+Purpose: An editor for the extracted audio samples
+|ID|Type|NULL/NOT NULL|Constraints|
+|---|---|---|---|
+|name|text|---|---|
+|sample_rate|integer|---|---|
+|channel|uuid|---|---|
+|loop_point|uuid|---|---|
+|key_range|uuid|---|---|
+
 Invariants     I1 ... I2 ...
+
 Relationships  <cardinality>
+
 Volume         <rows now, rows by Week 16>
+
 Lifecycle      <created when; deleted how — hard/soft, cascade/restrict>
 
 ### Migrations
