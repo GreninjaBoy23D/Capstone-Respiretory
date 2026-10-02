@@ -28,8 +28,8 @@ Out of scope: Since this tech specification is focused on extracting samples fro
 ## 4. Components (Level 3 — for the container with the hard part only)
 | Component | Responsibility (verb first) | Owns (state) | Depends on | Serves (req IDs) |
 |---|---|---|---|---|
-Dependency graph is acyclic: <yes / how you broke the cycle>
-Every piece of state has exactly one owner: <yes / what you fixed>
+|Import Manager|Manages the imported file|The imported ROm file from the user|The file the user imports|FR-001|
+|Sample Extractor|extract samples|ROM file|navigating the ROM file|FR-001, FR-002|
 
 ## 5. Interface Contracts
 One block per interface serving a Must requirement. Eight facts each.
