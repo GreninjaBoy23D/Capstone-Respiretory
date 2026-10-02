@@ -42,11 +42,11 @@ Auth:         User input required; 401 if importing a non-compatible ROM file or
 
 Request:      ROM file, ROM size, and Platform/Console type
 
-Success      200: ROM has been imported to this tool. 
+Success:      200: ROM file detected.
 
-Errors       <every failure: code, condition, body>
+Errors:       401: Incompatible file type; 404: Unable to import ROM.
 
-Idempotency  <what happens on a repeat>
+Idempotency:  After an error, the tool asks you to press any key to close the tool.
 
 Side effects <what it writes, sends, or spends>
 
