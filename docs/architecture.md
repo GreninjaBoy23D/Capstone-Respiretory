@@ -83,12 +83,17 @@ Relationships  household 1 ──< item >── 0..1 product
 Volume         ~200 rows/household · 6 households · ~50 new rows/week
 
 ## 7. Sequence Flows
-### Flow 1 — <the money path>                      (serves FR-__)
+### Flow 1 — A Successful or Value-Creating Flowed conversion.                
 Numbered steps with participants and data.
 | Step | What can go wrong | System behavior | User sees |
 |---|---|---|---|
-### Flow 2 — <the risky path: crosses a boundary you do not control>
-### Flow 3 — <the failure path: Flow 2 with the boundary broken>
+|1: The User|The User dosen't respond|Revolves around the Users input| Insert ROM file to Import|
+|2: ROM Process|A ROM may not be able to import if incompatible or something goes wrong with the program|The user imports the ROM file into the Converter|The user sees that the ROM has been imported and is proceeding to extract the samples.|
+|3:The Extraction|The Conversion will stop due to a non-existent path to the sample files or a failed extraction of the samples.|The system decompiles the ROM file, going to the path where the audio samples are located, and extracts the samples from the ROM.|The user sees a loading message for the extraction of the sample data|
+|4: SoundFont Generation|Soundfont cannot generate with the provided samples|The tool compiles the mapped Samples into a SoundFont file|Compiling SoundFont...|
+|5:|The Compatibility|The list of compatible ROMS|---|
+### Flow 2 — The conversion will be uncertain or have dangerous data.
+### Flow 3 — The conversion cannot be completed.
 
 ## 8. Error Handling and Edge Cases
 | Category | Policy |
