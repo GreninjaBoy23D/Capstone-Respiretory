@@ -98,7 +98,10 @@ Numbered steps with participants and data.
 ## 8. Error Handling and Edge Cases
 | Category | Policy |
 |---|---|
-| Invalid input / Not authorized / Not found / Conflict / Dependency failure / Exhaustion | |
+|File Error|If a file is not detected or has a problem opening, stop the conversion or process and report the problem|
+|Unsupported File | Reject the file by saying it's unsupported |
+|Extraction Errors|Skip the sample or abort|
+|Invalid SoundFont structure|Validate the SoundFont|
 
 For every call that leaves this process:
 | Call | Timeout (s) | Retries + backoff | Fallback | User is told? |
