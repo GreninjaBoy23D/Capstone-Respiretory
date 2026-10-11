@@ -10,12 +10,12 @@
 Schedule
 |Week|Task|Hours|
 |---|---|---|
-|8|Create the basis for the tool itself|---|
-|9|Keep working on the basis for the tool itself + listing out compatible ROM files|---|
-|10|Implementation of computer files + implementing the tools ROM navigation system|---|
-|11|Implementation of ROM to audio sample extraction|---|
-|12|Implementation of audio editing and play features (including changing names, categorizing instruments, and playback of samples)|---|
-|13|SoundFont Conversion implementation + Exporting SoundFont creation|---|
-|14|Test the tool & first created SoundFont, post-test changes before release|---|
-|15|Deliver V1 of the tool.|---|
-|16|Prepare to Showcase V1 of the tool to class.|---|
+|8|Review fixes, re-baseline the plan|4|
+|9|Create the basis for the tool itself + listing out compatible ROM files|12-24|
+|10|Implementation of computer files + implementing the tools ROM navigation system|12-24|
+|11|Implementation of ROM to audio sample extraction|12-24|
+|12|Implementation of audio editing and play features (including changing names, categorizing instruments, and playback of samples)|12-24|
+|13|SoundFont Conversion implementation + Exporting SoundFont creation|12-24|
+|14|Test the tool & first created SoundFont, review fixes before release|6|
+|15|Deliver V1 of the tool.|5|
+|16|Prepare to Showcase V1 of the tool to class.|5|
