@@ -10,9 +10,9 @@
 Schedule
 |Week|Task|Hours|
 |---|---|---|
-|8|---|---|
-|9|---|---|
-|10|---|---|
+|8|Create the basis for the tool itself|---|
+|9|Keep working on the basis for the tool itself|---|
+|10|Implementation of computer files + implementing the tools ROM navigation system|---|
 |11|---|---|
 |12|---|---|
 |13|---|---|
