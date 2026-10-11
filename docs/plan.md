@@ -16,6 +16,6 @@ Schedule
 |11|Implementation of ROM to audio sample extraction|---|
 |12|Implementation of audio editing and play features (including changing names, categorizing instruments, and playback of samples)|---|
 |13|SoundFont Conversion implementation + Exporting SoundFont creation|---|
-|14|---|---|
+|14|Test the tool & first created SoundFont, post-test changes before release|---|
 |15|Deliver V1 of the tool.|---|
 |16|Prepare to Showcase V1 of the tool to class.|---|
