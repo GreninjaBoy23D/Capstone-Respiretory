@@ -13,8 +13,8 @@ Schedule
 |8|Create the basis for the tool itself|---|
 |9|Keep working on the basis for the tool itself|---|
 |10|Implementation of computer files + implementing the tools ROM navigation system|---|
-|11|---|---|
-|12|---|---|
+|11|Implementation of ROM to audio sample extraction|---|
+|12|Implementation of audio editing and play features (including changing names, categorizing instruments, and playback of samples)|---|
 |13|---|---|
 |14|---|---|
 |15|---|---|
