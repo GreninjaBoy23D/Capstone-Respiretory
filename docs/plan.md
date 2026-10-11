@@ -17,5 +17,5 @@ Schedule
 |12|Implementation of audio editing and play features (including changing names, categorizing instruments, and playback of samples)|---|
 |13|SoundFont Conversion implementation + Exporting SoundFont creation|---|
 |14|---|---|
-|15|---|---|
-|16|---|---|
+|15|Deliver V1 of the tool.|---|
+|16|Prepare to Showcase V1 of the tool to class.|---|
