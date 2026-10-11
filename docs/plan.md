@@ -6,3 +6,15 @@
 |1.4|Audio Sample Processing: Decode, convert, and prepare sample data|FR-005, FR-006|2|4|3|3.5|---|---|
 |1.5|Instrument & Preset Mapping: Map samples to MIDI formats and SoundFont presets.|FR-003|4|5|2|4.3|---|---|
 |1.6|SoundFont Generation: Generate the samples into a packaged SoundFont|FR-007|3|4|5|4|---|---|
+
+Schedule
+|Week|Task|Hours|
+|---|---|---|---|
+|8|---|---|---|
+|9|---|---|---|
+|10|---|---|---|
+|11|---|---|---|
+|12|---|---|---|
+|13|---|---|---|
+|14|---|---|---|
+|15|---|---|---|
