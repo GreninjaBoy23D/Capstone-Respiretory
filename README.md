@@ -7,6 +7,8 @@ Current Status: WIP/Drafted
 
 Navigate towards  the docs/ folder to find the charter, hours log, and ai usage.
 
+## Run it:
+
 Demo Test (A a simple demo showcase of what the structure of the code would look like, using a Python Code with a CMD file interface):
 1. Download the ZIP.
 2. Navigate through Capstone-Respiretory/docs/scripts/demo/
