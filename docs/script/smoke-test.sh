@@ -1,25 +1,8 @@
 #!/usr/bin/env bash
-#
-# smoke-test.sh — the proof that the skeleton walks.
-#
-# This is not a unit test. It does not mock anything. It asks the running
-# system for something that could ONLY have come from the far end of the
-# request path, and it fails loudly if the answer is wrong or missing.
-#
-# Copy this to script/smoke in your repository, make it executable
-# (chmod +x script/smoke), and change the three defaults below to match your
-# project. CI runs the same file. So do you, before every push.
-#
-#   ./script/smoke
-#   APP_BASE_URL=https://pantrypilot-staging.example.org ./script/smoke
-#
-# CLI projects: replace the curl calls with your binary and assert on stdout.
-# The shape of the check does not change — run the real thing, look for data
-# that had to travel the whole path.
 
 set -euo pipefail
 
-BASE_URL="${APP_BASE_URL:-http://127.0.0.1:8080}"
+BASE_URL="${APP_BASE_URL:https://github.com/GreninjaBoy23D/Capstone-Respiretory.git}"
 ENDPOINT="${SMOKE_ENDPOINT:-/api/items}"
 EXPECT="${SMOKE_EXPECT:-oat milk}"
 TIMEOUT_SECONDS="${SMOKE_TIMEOUT:-30}"
