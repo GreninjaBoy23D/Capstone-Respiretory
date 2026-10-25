@@ -1,12 +1,16 @@
 @echo off
-REM Check if a ROM path was dragged-and-dropped or passed as an argument
-if "%~1"=="" (
-    echo Please drag and drop a ROM file onto this script, or run: run_rom.cmd "path\to\rom.nes"
+SETLOCAL EnableExtensions DisableDelayedExpansion
+
+:: Check if Python is installed
+python --version >nul 2>&1
+if %errorlevel% neq 0 (
+    echo [Error] Python is not installed or not added to your PATH environment variable.
+    echo Please install Python to run this script.
     pause
     exit /b
 )
 
-REM Run the Python script with the provided ROM file
-python import_rom.py "%~1"
+:: Run the Python script passing along the current directory context
+python "%~dp0import_rom.py"
 
-pause
+endlocal
