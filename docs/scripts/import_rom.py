@@ -7,7 +7,7 @@ VALID_EXTENSIONS = {'.nes', '.sfc', '.smc', '.gba', '.gbc', '.gb', '.nds', '.bin
 
 def import_rom():
     print("=== Video Game ROM Importer ===")
-    file_path = input("Import ROM file by typing in the file path or dragging and dropping it into Skeleton.cmd: ").strip('" ')
+    file_path = input("Import ROM file by typing in the file path or dragging and dropping it into the CMD file: ").strip('" ')
 
     # Validate files existence
     if not os.path.exists(file_path):
