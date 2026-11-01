@@ -1,3 +1,4 @@
+from gba_samples import extract_gba
 from extract_samples import extract_samples
 import os
 import sys
@@ -44,14 +45,21 @@ def import_rom():
         print(f"\n[Success] Imported successfully!")
         print(f"Saved to: {dest_path}")
 
-        # Automatically extract samples from imported ROM.
-        print("\nStarting sample extraction...")
+        # Automatically select extractor based on ROM extension.
+        print("\nStarting audio extraction...")
 
-        extract_samples(dest_path)
+        if ext.lower() == ".gba":
+            print("[Info] GBA ROM detected.")
+            extract_gba(dest_path)
+
+        else:
+            print("[Info] Using standard PCM extractor.")
+            extract_samples(dest_path)
 
         return True
+
     except Exception as e:
-        print(f"\n[Error] Failed to import file: {e}")
+        print(f"\n[Error] Failed to import or process file: {e}")
         return False
 
 
