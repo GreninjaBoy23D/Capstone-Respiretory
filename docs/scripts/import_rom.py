@@ -1,3 +1,4 @@
+from extract_samples import extract_samples
 import os
 import sys
 import shutil
@@ -5,15 +6,17 @@ import shutil
 # Compatible ROM'S
 VALID_EXTENSIONS = {'.nes', '.sfc', '.smc', '.gba', '.gbc', '.gb', '.nds', '.bin', '.iso', '.v64', '.z64'}
 
+
 def import_rom():
     print("=== Video Game ROM Importer ===")
-    file_path = input("Import ROM file by typing in the file path or dragging and dropping it into the CMD file: ").strip('" ')
+    file_path = input(
+        "Import ROM file by typing in the file path or dragging and dropping it into the CMD file: ").strip('" ')
 
     # Validate files existence
     if not os.path.exists(file_path):
         print(f"\n[Error] File not Found: {file_path}")
         return False
-        
+
     if not os.path.isfile(file_path):
         print(f"\n[Error] The path provided is a directory, not a file.")
         return False
@@ -37,12 +40,20 @@ def import_rom():
 
     try:
         shutil.copy2(file_path, dest_path)
+
         print(f"\n[Success] Imported successfully!")
         print(f"Saved to: {dest_path}")
+
+        # Automatically extract samples from imported ROM.
+        print("\nStarting sample extraction...")
+
+        extract_samples(dest_path)
+
         return True
     except Exception as e:
         print(f"\n[Error] Failed to import file: {e}")
         return False
+
 
 if __name__ == "__main__":
     import_rom()
