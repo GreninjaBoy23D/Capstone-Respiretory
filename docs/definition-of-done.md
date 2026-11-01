@@ -45,16 +45,16 @@ nothing on a rubric a stranger applies.
 
 | Check | Evidence |
 |---|---|
-| 1 | AC-1 scan resolves a name; AC-2 unknown barcode falls through to manual entry |
-| 2 | `test_lookup_200`, `test_lookup_404`, `test_lookup_5xx_retry`, `test_timeout` |
-| 3 | Run #211 green on `feat/fr-12-barcode` |
-| 4 | Timeout, 404, 429, and garbage-body cases handled per spec §4.3 |
-| 5 | Four passes done 3/19; 3 findings fixed, DEF-014 logged and deferred |
-| 6 | Key read from `PANTRY_API_KEY`; `git diff --staged` reviewed hunk by hunk |
-| 7 | `docs/ai-usage.md` entry 2026-03-19 (client draft, ~40 of 95 lines kept) |
-| 8 | Issue #34 closed, labeled `FR-12`, moved to Done |
-| 9 | `README.md` prerequisites updated with the new env var |
-| 10 | 3.75 h construction + 1.00 h debugging logged 3/19 |
+| 1 | Implemented the importing ROM system in Python.|
+| 2 | Tested the import system with a GBA ROM, import was a success |
+| 3 | Implemented the Sample Extraction in Python. Updated Import ROM python file to use the Sample Extraction Code |
+| 4 | Initial test on the sample extraction did not work. |
+| 5 | Added a GBA sample extraction python file for testing purposes and to fix problems on the sample extraction. |
+| 6 ||
+| 7 ||
+| 8 ||
+| 9 ||
+| 10 ||
 
 ---
 
