@@ -13,7 +13,7 @@ A task is DONE when ALL of the following are true:
 
 A task is DONE when ALL of the following are true:
 
-1. The acceptance criteria on its requirement are met, verbatim. (`FR-__ AC-__`)
+1. The acceptance criteria on its requirement are met, verbatim. (`FR-11 AC-__`)
 2. At least one automated test exercises the new behavior and passes.
 3. The full test suite passes locally AND in CI on the pushed branch.
 4. Errors and edge cases named in the technical specification are handled.
