@@ -61,8 +61,7 @@ nothing on a rubric a stranger applies.
 ## The four-pass self-review (check 5, expanded)
 
 **Pass 1 — Diff (mechanical).** `git diff --staged` and `git diff --staged --stat`.
-Hunt debug prints, commented-out blocks, files staged by accident, hard-coded
-hosts, and TODOs you forgot. Five minutes; finds about half of everything.
+Find out errors, improve or fix mistakes on coding, research and use coding experience.
 
 **Pass 2 — Stranger (comprehension).** Read from the entry point as if you had
 never seen it. Flag ambiguous names, functions doing three jobs, magic numbers,
@@ -73,9 +72,9 @@ looks like:
 
 | Input | Hostile version |
 |---|---|
-| text field | empty · 10,000 chars · emoji · `'; DROP TABLE` · padded whitespace |
-| number | zero · negative · 0.1 + 0.2 · your type's maximum |
-| date | today · leap day · 1900 · another time zone |
+| ROM import | File type not supported, error importing file |
+| extraction | audio parsing not formatted for ROM, ROM file uses different audio engine |
+| date | today · leap day · 1900 · another time zone · deadlines  |
 | network call | slow · timed out · 500 · 429 · valid HTTP, garbage body |
 | collection | empty · one · one million · duplicates |
 
