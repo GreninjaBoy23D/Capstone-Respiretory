@@ -1,4 +1,4 @@
-# Test Plan — GBA ROM to SoundFont
+# Test Plan — ROM to SoundFont
 
 **Version:** 1.0  ·  **Author:** Kevin Xiong ·  **Date:** <2026-11-04>  ·  **Baseline commit:** <sha>
 
