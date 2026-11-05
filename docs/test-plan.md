@@ -1,10 +1,6 @@
-# Test Plan — <Project Name>
+# Test Plan — GBA ROM to SoundFont
 
-Copy this into your repository as `docs/test-plan.md` and fill every section.
-Delete the bracketed guidance as you go. A section you cannot fill honestly is a
-section that is telling you something.
-
-**Version:** 1.0  ·  **Author:** <you>  ·  **Date:** <YYYY-MM-DD>  ·  **Baseline commit:** <sha>
+**Version:** 1.0  ·  **Author:** Kevin Xiong ·  **Date:** <2026-11-04>  ·  **Baseline commit:** <sha>
 
 ---
 
