@@ -1,5 +1,6 @@
 from gba_samples import extract_gba
 from extract_samples import extract_samples
+from gba_parsing import GBAAudioParser
 import os
 import sys
 import shutil
@@ -50,7 +51,10 @@ def import_rom():
 
         if ext.lower() == ".gba":
             print("[Info] GBA ROM detected.")
-            extract_gba(dest_path)
+            print("[Info] Starting GBA audio-engine parser...")
+
+            parser = GBAAudioParser(dest_path)
+            parser.parse()
 
         else:
             print("[Info] Using standard PCM extractor.")
