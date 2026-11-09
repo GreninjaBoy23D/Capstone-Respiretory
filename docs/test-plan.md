@@ -19,7 +19,7 @@ Editing and previewing the samples is not under this build, since the focus on t
 | Level | What it covers here | How it runs | Roughly how many |
 |---|---|---|---|
 | Unit | <modules / pure logic> | `<command>` | <n> |
-| Integration | <named seams: DB, HTTP client, queue> | `<command>` | <n> |
+| Integration | Python Files to CMD | CMD File runs the import_test.py file. The py file runs two imports assets from two other Python files (parsing and extraction purposes) | <n> |
 | Acceptance | <requirement acceptance criteria, end to end> | `<command or manual script>` | <n> |
 
 ## 4. Environment
