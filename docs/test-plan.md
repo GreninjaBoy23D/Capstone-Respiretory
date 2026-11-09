@@ -1,4 +1,4 @@
-# Test Plan — GBA ROM to SoundFont
+# Test Plan — GBA ROM Sample Extractor
 
 **Version:** 1.0  ·  **Author:** Kevin Xiong ·  **Date:** <2026-11-04>  ·  **Baseline commit:** <sha>
 
@@ -8,11 +8,11 @@
 
 [One paragraph. Name the build (commit SHA or tag) and the requirement IDs this plan
 covers. Be specific: "FR-01 through FR-14 and NFR-02, NFR-05, NFR-08, at commit a1b2c3d."]
-This build of the project is focused on converting GBA ROM files to a SounFont. Going off of Functional Requirements 1, 2, 3, 7, and 8, this build allows users to import a GBA ROM by putting in the file path or dragging the file into the cmd file. Then the program goes through the GBA ROM, parsing and extracting the sample audio for the Instruments. Then, users can convert the samples into a packaged SoundFont, and users can export it into a SF2 file.
+This build of the project is focused on converting GBA ROM files to a SounFont. Going off of Functional Requirements 1 and 2. The primary focus on this build is to allow a user to import a GBA ROM file into the program by pasting the path to the file, and letting the tool extract the samples.
 
 ## 2. Out of scope — what is NOT under test, and why
 
-Editing and previewing the samples is not under this build, since the focus on this build is to import and extract the ROM, and convert it's samples into a SoundFont.
+Editing and previewing the samples is not under this build, since the focus on this build is to import and extract the samples of the ROM file. Converting it into a SoundFont is not implemented in this buils since this builds focus is to extract the samples of the ROM file. Other implementation of other ROM files formats (such as DS and SNES) are not present in this build as it focuses on GBA ROM files.
 
 ## 3. Test levels
 
