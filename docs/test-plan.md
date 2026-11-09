@@ -8,7 +8,7 @@
 
 [One paragraph. Name the build (commit SHA or tag) and the requirement IDs this plan
 covers. Be specific: "FR-01 through FR-14 and NFR-02, NFR-05, NFR-08, at commit a1b2c3d."]
-This build of the project is focused on converting GBA ROM files to a SounFont. Going off of Functional Requirements 1 and 2. The primary focus on this build is to allow a user to import a GBA ROM file into the program by pasting the path to the file, and letting the tool extract the samples.
+This build of the project is focused on converting GBA ROM files to a SounFont. Going off of Functional Requirements 1 and 2. The primary focus on this build is to allow a user to import a GBA ROM file into the program by pasting the path to the file, and letting the tool extract the samples. The current test can be found in Capstone-Respiretory/docs/scripts/Test_Skeleton.cmd.
 
 ## 2. Out of scope — what is NOT under test, and why
 
