@@ -69,4 +69,4 @@ Editing and previewing the samples is not under this build, since the focus on t
 
 I have read this plan and I am accountable for the exit criteria above.
 
-Signed: <you>  ·  Date: <YYYY-MM-DD>
+Signed: <Kevin Xiong>  ·  Date: <20206-11-03>
