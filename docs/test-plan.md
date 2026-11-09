@@ -28,8 +28,8 @@ Editing and previewing the samples is not under this build, since the focus on t
 |---|---|
 | Runtime / language version | Python |
 | Operating system(s) | Command Prompt File (CMD) |
-| Database / storage | <exact, and how it is seeded> |
-| Third-party services | <real, sandbox, or stubbed — say which> |
+| Database / storage | Audio Reports & File Copies |
+| Third-party services | None |
 | Test data set | <path in repo + how it is generated> |
 | Where it runs | Locally on a users computer/PC |
 
