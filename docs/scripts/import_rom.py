@@ -1,6 +1,7 @@
 from gba_samples import extract_gba
 from extract_samples import extract_samples
 from gba_parsing import GBAAudioParser
+from gba_to_sound import GBAAudioExtractor
 import os
 import sys
 import shutil
@@ -50,13 +51,39 @@ def import_rom():
         print("\nStarting audio extraction...")
 
         if ext.lower() == ".gba":
-            print("[Info] GBA ROM detected.")
-            print("[Info] Starting GBA audio-engine parser...")
 
-            parser = GBAAudioParser(dest_path)
-            parser.parse()
+            print("[Info] GBA ROM detected.")
+            print("[Info] Starting audio parsing and extraction...")
+
+            extractor = GBAAudioExtractor(dest_path)
+
+            print("\nSelect audio data location:")
+            print("1. Song header offset")
+            print("2. Voice group offset")
+
+            choice = input("Enter choice: ").strip()
+
+            if choice == "1":
+
+                offset = input(
+                    "Enter song header ROM offset (hex): "
+                ).strip()
+
+                extractor.extract(song_offset=int(offset, 0))
+
+            elif choice == "2":
+
+                offset = input(
+                    "Enter voice group ROM offset (hex): "
+                ).strip()
+
+                extractor.extract(voicegroup_offset=int(offset, 0))
+
+            else:
+                print("[Error] Invalid selection.")
 
         else:
+
             print("[Info] Using standard PCM extractor.")
             extract_samples(dest_path)
 
