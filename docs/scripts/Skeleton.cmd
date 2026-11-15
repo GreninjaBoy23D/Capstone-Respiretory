@@ -13,4 +13,8 @@ if %errorlevel% neq 0 (
 :: Run the Python script passing along the current directory context
 python "%~dp0import_rom.py"
 
+@echo off
+python "%~dp0convert_to_soundfont.py"
+pause
 endlocal
+
