@@ -35,6 +35,3 @@ date,start,end,hours,phase,hat,task,estimate_hours,blocked_hours,notes
 2026-11-05,09:00,10:30,5.0,design,release-engineer, created gba_parsing.py + updated import_rom.py,3.0,0.00,
 2026-11-06,09:00,10:30,5.0,design,release-engineer, created Test_Skeleton.cmd + import_test.py,3.0,0.00,
 2026-11-07,09:00,10:30,5.0,design,release-engineer, tested out Test_Skeleton.cmd + updated tracability + updated hour logs,3.0,
-2026-11-09,09:00,10:30,5.0,design,release-engineer, read Chapter 12 + on-page quiz,3.0,0.00,
-2026-11-11,09:00,10:30,5.0,design,release-engineer, created gba_to_sound + soundfont_converter,3.0,0.00,
-2026-11-12,09:00,10:30,5.0,design,release-engineer, tested out Test_Skeleton.cmd + updated tracability + updated hour logs,3.0,0.00,
