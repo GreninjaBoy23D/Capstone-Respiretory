@@ -37,4 +37,5 @@ date,start,end,hours,phase,hat,task,estimate_hours,blocked_hours,notes
 2026-11-07,09:00,10:30,5.0,design,release-engineer, tested out Test_Skeleton.cmd + updated tracability + updated hour logs,3.0,0.00,
 2026-11-09,09:00,10:30,5.0,design,release-engineer, read chatper 12 + on-page quiz,3.0,0.00,
 2026-11-11,09:00,10:30,5.0,design,release-engineer, created gba_to_sound + updated import_rom,3.0,0.00,
-2026-11-12,09:00,10:30,5.0,design,release-engineer, created soundfont_converter + updated import_rom,3.0,0.00,
+2026-11-12,09:00,10:30,5.0,design,release-engineer, created soundfont_converter + updated import_rom + created release canidate,3.0,0.00,
+2026-11-13,09:00,10:30,5.0,design,release-engineer, created exit criteria + created performance and security review + + created CHANGELOG + updated hour logs,3.0,0.00,
