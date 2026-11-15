@@ -1,4 +1,4 @@
-# | Area | The question to answer | Evidence | Finding | Disposition |
+| # | Area | The question to answer | Evidence | Finding | Disposition |
 |---|---|---|---|---|---|
 | 1 | **Secrets** | Is any credential in the repository, in its history, in a log, or in a screenshot? | | | |
 | 2 | **Input** | Does every externally supplied value get validated and safely parameterized before it reaches a query, a shell, a path, or a template? | | | |
