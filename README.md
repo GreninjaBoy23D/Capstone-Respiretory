@@ -51,8 +51,7 @@ cp .env.example .env
 
 | Variable | Required? | What it is | Default |
 |---|---|---|---|
-| `ROM File` | yes | Find and download a compatible video game ROM file to import it to the tool. | none |
-| `{{VAR}}` | no | {{plain-English meaning}} | `{{default}}` |
+| `ROM File` | yes | Find and download a compatible video game ROM file to import it into the tool. | none |
 
 Never commit `.env`. Placeholder values only in this file and in `.env.example`.
 
