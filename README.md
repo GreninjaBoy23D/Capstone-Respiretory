@@ -40,8 +40,7 @@ Canidate Version
 3. Run Skeleton.cmd
 ```
 
-Expected: {{the last line of successful output, or the artifact that now exists}}.
-Takes about {{N}} minutes on a first run.
+
 
 ## 5. Configure
 
