@@ -7,7 +7,7 @@ Current Status: WIP/Drafted
 
 Navigate towards  the docs/ folder to find the charter, hours log, and ai usage.
 
-Main Application (WIP, Implemented Import Rom files):
+
 1. Download the ZIP.
 2. Navigate through Capstone-Respiretory/docs/scripts/
 3. Click on Skeleton.cmd or drag ROM file into Skeleton.cmd to import your ROM.
@@ -44,9 +44,16 @@ image under `docs/img/` and use a relative path so it renders on GitHub.}}
 ## 4. Install
 
 ```
-{{clone command}}
-cd {{repo-dir}}
-{{dependency install command}}
+Test Version
+1. Download the ZIP.
+2. Navigate through Capstone-Respiretory/docs/scripts/
+3. Click on Skeleton.cmd or drag ROM file into Skeleton.cmd to import your ROM.
+4. If you had just clicked on Skeleton.cmd, follow the interfaces instructions.
+
+Canidate Version
+1. Download this Project as a ZIP
+2. Locate Release v0.9.0 (Canidated Release)
+3. Run Skeleton.cmd
 ```
 
 Expected: {{the last line of successful output, or the artifact that now exists}}.
@@ -60,7 +67,7 @@ cp .env.example .env
 
 | Variable | Required? | What it is | Default |
 |---|---|---|---|
-| `{{VAR}}` | yes | {{plain-English meaning}} | none |
+| `ROM File` | yes | Find and download a compatible video game ROM file to import it to the tool. | none |
 | `{{VAR}}` | no | {{plain-English meaning}} | `{{default}}` |
 
 Never commit `.env`. Placeholder values only in this file and in `.env.example`.
