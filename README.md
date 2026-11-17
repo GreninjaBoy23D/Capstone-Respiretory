@@ -8,10 +8,9 @@
 
 ## 1. What this is and who it is for
 
-{{2–4 sentences: the problem, the user, the thing it replaces. A reader who stops here should be able
-to decide whether to keep reading.}}
+This application allows users to import a video game ROM from thier files, and convert its extracted samples into a packaged SoundFont file. This tool can be used for those who want to use video game instruments in their digital music.
 
-**What it does not do:** {{2–3 honest non-goals. This is the part that earns trust.}}
+This tool is only able to import, rename, preview, and extract samples, it will not have any function when it comes to changing loop points. Since the tool focuses on extracting instrument samples, it will not focus on extracting voice clips or pre-made music from ROM files.
 
 ## 2. Demo
 
