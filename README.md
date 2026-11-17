@@ -14,12 +14,12 @@ Main Application (WIP, Implemented Import Rom files):
 4. If you had just clicked on Skeleton.cmd, follow the interfaces instructions.
 
 
-# {{ROM to SoundFont Converter}}
+# ROM to SoundFont Converter
 
-> {{For those who wish to use instruments for vaious video games for music, this is an application in which you import it's ROM file and let it convert into a SoundFont file.}}
+> For those who wish to use instruments for vaious video games for music, this is an application in which you import it's ROM file and let it convert into a SoundFont file.
 
-**Status:** {{Partially working — Compatibility with other Console ROMS + Renaming and Preview Samples}}
-**Built by:** {{Kevin Xiong}} · {{Capstone Project, CSC 4950}}
+**Status:** Partially working — Compatibility with other Console ROMS + Renaming and Preview Samples
+**Built by:** Kevin Xiong · Capstone Project, CSC 4950
 
 ## 1. What this is and who it is for
 
