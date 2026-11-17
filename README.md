@@ -78,9 +78,9 @@ Known failing/skipped tests and why: {{list, or "none"}}.
 ## 8. Project layout
 
 ```
-{{dir}}/     {{what lives here}}
+Release v0.9.0 (Canidated Release)/     Skeleton.cmd, extract_samples.py, gba_parsing.py, gba_samples.py, gba_to_sound.py, import_rom.py, sound_converter.py
 {{dir}}/     {{...}}
-docs/        specification, architecture, runbook, decision records
+docs/        specification, architecture, runbook, decision records, ai_usage, defect-log, definition of done, exit criteria, eliciation notes, performance, risk register, scripts, security review, tech evaluation, traceability
 ```
 
 ## 9. Troubleshooting
