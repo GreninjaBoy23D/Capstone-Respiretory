@@ -1,24 +1,9 @@
-# Capstone-Respiretory
-Sounfont Converter: A tool that can be used to extract ROM files with their audio samples, and convert them into soundfonts.
-
-Owner: Kevin Xiong
-
-Current Status: WIP/Drafted
-
-Navigate towards  the docs/ folder to find the charter, hours log, and ai usage.
-
-
-1. Download the ZIP.
-2. Navigate through Capstone-Respiretory/docs/scripts/
-3. Click on Skeleton.cmd or drag ROM file into Skeleton.cmd to import your ROM.
-4. If you had just clicked on Skeleton.cmd, follow the interfaces instructions.
-
-
 # ROM to SoundFont Converter
 
 > For those who wish to use instruments for vaious video games for music, this is an application in which you import it's ROM file and let it convert into a SoundFont file.
 
 **Status:** Partially working — Compatibility with other Console ROMS + Renaming and Preview Samples
+
 **Built by:** Kevin Xiong · Capstone Project, CSC 4950
 
 ## 1. What this is and who it is for
