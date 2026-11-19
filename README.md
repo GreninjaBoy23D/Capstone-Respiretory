@@ -21,7 +21,7 @@ image under `docs/img/` and use a relative path so it renders on GitHub.}}
 
 | Requirement | Version built and tested on | Check it with | What breaks without it |
 |---|---|---|---|
-| {{Runtime}} | {{exact version}} | `{{cmd --version}}` | {{symptom}} |
+| Audio Player | {{exact version}} | `{{cmd --version}}` | {{symptom}} |
 | {{Database}} | {{exact version}} | `{{cmd --version}}` | {{symptom}} |
 | {{Account/key}} | n/a | see Configure | {{degraded behavior}} |
 
@@ -80,7 +80,6 @@ Known failing/skipped tests and why: {{list, or "none"}}.
 ```
 
 Release v0.9.0 (Canidated Release)/     Skeleton.cmd, extract_samples.py, gba_parsing.py, gba_samples.py, gba_to_sound.py, import_rom.py, sound_converter.py
-
 docs/        specification, architecture, runbook, decision records, ai_usage, defect-log, definition of done, exit criteria, eliciation notes, performance, risk register, scripts, security review, tech evaluation, traceability
 ```
 
@@ -93,7 +92,7 @@ docs/        specification, architecture, runbook, decision records, ai_usage, d
 
 ## 10. License
 
-{{SPDX identifier}} — see `LICENSE`.
+{{Creative Commons Attribution-NonCommercial}} — see `LICENSE`.
 
 ## 11. Contact and further reading
 
