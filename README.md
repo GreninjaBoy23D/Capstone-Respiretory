@@ -92,7 +92,7 @@ docs/        specification, architecture, runbook, decision records, ai_usage, d
 
 ## 10. License
 
-{{Creative Commons Attribution-NonCommercial}} — see `LICENSE`.
+Creative Commons Attribution-NonCommercial — see `LICENSE`.
 
 ## 11. Contact and further reading
 
