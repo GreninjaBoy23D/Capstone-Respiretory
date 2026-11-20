@@ -21,7 +21,7 @@ image under `docs/img/` and use a relative path so it renders on GitHub.}}
 
 | Requirement | Version built and tested on | Check it with | What breaks without it |
 |---|---|---|---|
-| Audio Player | {{exact version}} | `{{cmd --version}}` | {{symptom}} |
+| Media Player | 11.2609.11 | `0.9` | Audio will not be able to be previewed. |
 | {{Database}} | {{exact version}} | `{{cmd --version}}` | {{symptom}} |
 | {{Account/key}} | n/a | see Configure | {{degraded behavior}} |
 
