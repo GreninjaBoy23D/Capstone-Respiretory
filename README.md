@@ -90,8 +90,8 @@ docs/        specification, architecture, runbook, decision records, ai_usage, d
 
 | Symptom | Likely cause | Fix |
 |---|---|---|
-| {{exact error text}} | {{cause}} | {{command or step}} |
-| {{exact error text}} | {{cause}} | {{command or step}} |
+| File Error for compatibility | File imported is incompatible with the tool. | {{command or step}} |
+| Broken Loops | Converter miscalculates sample loop points. | {{command or step}} |
 
 ## 10. License
 
