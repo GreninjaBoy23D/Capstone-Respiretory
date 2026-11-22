@@ -21,8 +21,6 @@ docs/Screenshot 2026-11-22 132552.png
 | Requirement | Version built and tested on | Check it with | What breaks without it |
 |---|---|---|---|
 | Media Player | 11.2609.11 | `0.9` | Audio will not be able to be previewed. |
-| {{Database}} | {{exact version}} | `{{cmd --version}}` | {{symptom}} |
-| {{Account/key}} | n/a | see Configure | {{degraded behavior}} |
 
 ## 4. Install
 
