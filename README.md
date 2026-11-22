@@ -99,5 +99,5 @@ Creative Commons Attribution-NonCommercial — see `LICENSE`.
 
 ## 11. Contact and further reading
 
-{{How to reach you}} · Architecture: `docs/architecture.md` · Operations: `docs/runbook.md` ·
+kevinyxiong05@gmail.com · Architecture: `docs/architecture.md` · Operations: `docs/runbook.md` ·
 Decisions: `docs/adr/README.md` · New here? `docs/onboarding.md`
