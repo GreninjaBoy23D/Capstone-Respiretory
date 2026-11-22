@@ -54,8 +54,14 @@ Never commit `.env`. Placeholder values only in this file and in `.env.example`.
 ## 6. Run
 
 ```
-{{setup / migration command}}
-{{run command}}
+jobs:
+  setup-and-run:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run setup CMD
+        shell: cmd
+        run: .\scripts\your-script.cmd
 ```
 
 Expected: {{exact success line}} — then open {{URL}} and you should see {{what}}.
