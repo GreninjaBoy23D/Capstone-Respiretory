@@ -8,7 +8,7 @@ Status: Draft
 Requirements baseline this design satisfies: docs/requirements.md <version>
 
 ## 0. Overview
-This is the ROM to SoundFont Converter, a tool used to create SoundFont files (SF2) using a video game's ROM file. A user imports the ROM file by pasting the path of the file into the tool. ROM files include the likes of GBA, NES, DS, N64, and more. The tool then locates and extracts audio samples from the ROM file into a WAV format. A user will be able to preview those samples, and rename them as they please. When the editiing of the samples is ready, the user packages the samples into a SoundFont file.
+This is the ROM to SoundFont Converter, a tool used to create SoundFont files (SF2) using a video game's ROM file. A user imports the ROM file from their computer's storage by pasting the path of the file into the tool. ROM files include the likes of GBA, NES, DS, N64, and more. The tool then locates and extracts audio samples from the ROM file into a WAV format. A user will be able to preview those samples and rename them as they please. When the editing of the samples is ready, the user packages the samples into a SoundFont file. The SoundFont file is automatically exported to the user's device, allowing them to use it in digital music.
 
 ## 1. Purpose and Scope
 This system converts samples into a SoundFont file from a game's ROM file. It uses game ROM files that users import into the tool to extract samples. The tool goes through the ROM's internal files to locate the samples in order to extract it to the tool. A user can be able to edit the name of the sample and be able to play the sample in a test. The user can convert these samples into a packaged SoundFont file, and export it to their computer file storage.
