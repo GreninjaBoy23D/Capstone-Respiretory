@@ -14,7 +14,7 @@ This tool is only able to import, rename, preview, and extract samples, it will 
 
 ## 2. Demo
 
-![Screenshot of the app](docs/Screenshot 2026-11-22 132552.png)
+docs/Screenshot 2026-11-22 132552.png
 
 ## 3. Prerequisites
 
