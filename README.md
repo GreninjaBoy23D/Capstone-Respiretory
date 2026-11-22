@@ -61,7 +61,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Run setup CMD
         shell: cmd
-        run: .\scripts\your-script.cmd
+        run: .\Release v0.9.0 (Canidated Release)\Skeleton.cmd
 ```
 
 Expected: {{exact success line}} — then open {{URL}} and you should see {{what}}.
