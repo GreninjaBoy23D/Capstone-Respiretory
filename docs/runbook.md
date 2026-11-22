@@ -8,8 +8,8 @@ Every command below has been run by a human on a machine that is not the author'
 | Environment | Where | Who has access | How to get in |
 |---|---|---|---|
 | Local | developer machine | anyone with the repo | see `README.md` |
-| {{Staging}} | {{URL or "none"}} | {{names/roles}} | {{steps}} |
-| {{Production}} | {{URL or "none"}} | {{names/roles}} | {{steps}} |
+| Skeleton.cmd | developer machine | anyone with the repo | Open Skeleton.cmd to start using the tool |
+| ROM Sample Extractor | import_rom.py | anyone with the repo | copy the path of our ROM file, paste it on the interface of Skeleton.cmd. |
 
 Where the data actually lives: {{host, database name, storage bucket}}.
 Where the logs actually live: {{path or console}}.
