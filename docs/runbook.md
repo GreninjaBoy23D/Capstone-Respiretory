@@ -53,8 +53,8 @@ Unhealthy looks like: `{{exact output}}` → go to section 6.
 
 So the operator can tell abnormal from normal:
 
-- Startup time: about {{N}} seconds.
-- Typical response time for {{the main operation}}: about {{N}} ms.
+- Startup time: about 1 second.
+- Typical response time for Extracting Samples: about 3 ms.
 - Log lines you should expect to see and safely ignore: {{examples}}.
 - Known limits: {{rate limits, row counts, concurrent users, disk}} — behavior at the limit: {{what happens}}.
 
