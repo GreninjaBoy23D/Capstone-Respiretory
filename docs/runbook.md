@@ -1,4 +1,4 @@
-# Runbook — {{PROJECT NAME}}
+# Runbook — ROM to SoundFont Converter
 
 For the person operating this system, possibly at an inconvenient hour, possibly without you.
 Every command below has been run by a human on a machine that is not the author's laptop.
@@ -11,8 +11,8 @@ Every command below has been run by a human on a machine that is not the author'
 | Skeleton.cmd | developer machine | anyone with the repo | Open Skeleton.cmd to start using the tool |
 | ROM Sample Extractor | import_rom.py | anyone with the repo | copy the path of our ROM file, paste it on the interface of Skeleton.cmd. |
 
-Where the data actually lives: {{host, database name, storage bucket}}.
-Where the logs actually live: {{path or console}}.
+Where the data actually lives: imported_roms (created after importing a ROM file to the tool)
+Where the logs actually live: imported_roms (Audio logs are created within this folder)
 
 ## 2. Start, stop, restart
 
