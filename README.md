@@ -14,8 +14,7 @@ This tool is only able to import, rename, preview, and extract samples, it will 
 
 ## 2. Demo
 
-{{Screenshot, animated GIF, or a 60–90 second recording; for a CLI, a real terminal session. Commit the
-image under `docs/img/` and use a relative path so it renders on GitHub.}}
+docs/Screenshot 2026-11-22 132552.png
 
 ## 3. Prerequisites
 
