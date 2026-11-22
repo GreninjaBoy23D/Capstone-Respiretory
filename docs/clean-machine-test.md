@@ -20,19 +20,19 @@ not afterward from memory.
 
 | Field | Value |
 |---|---|
-| Date | |
-| Tester name | |
-| Tester's background | (e.g. "CS senior, has never used this stack") |
-| Machine / OS / architecture | |
-| Environment type | fresh container / cloud dev environment / borrowed laptop / new user account |
+| Date |  |
+| Tester name | Kevin Xiong |
+| Tester's background | CS Senior |
+| Machine / OS / architecture | Windows 11 |
+| Environment type | Laptop |
 | Repository URL and commit SHA | |
-| Observer (you) | |
+| Observer (you) | Kevin Xiong |
 
 ## 2. Stopwatch
 
 | Checkpoint | Target | Actual | Notes |
 |---|---|---|---|
-| Repository opened | 0:00 | | |
+| Repository opened | 0:00 | 0:00 | |
 | Prerequisites installed / confirmed | 0:05 | | |
 | Dependencies installed | 0:08 | | |
 | Configuration complete (`.env` filled) | 0:11 | | |
