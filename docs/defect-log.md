@@ -1,15 +1,11 @@
-# Defect Report & Defect Log — templates
-
-Copy the log table into `docs/defect-log.md`. Copy the report block into each issue
-you open. Every defect gets **all seven fields**. A report missing a field is a note
-to yourself, not a defect report.
+# Defect Report & Defect Log
 
 ---
 
 ## The seven required fields
 
 1. **ID and one-line title** — `DEF-014 — Expiry warning misses items expiring today`
-2. **Environment** — build/commit, OS, runtime or browser, which data set
+2. **Environment** — v0.5 (located in docs/scripts), Windows 11
 3. **Steps to reproduce** — numbered, minimal, starting from a known state
 4. **Expected vs. actual** — both stated, in that order, in the observable world
 5. **Evidence** — failing test name, log excerpt, screenshot path, request/response
@@ -44,7 +40,7 @@ Severity: S2 — a Must requirement is not met; the feature's whole point is the
 Priority: P1 — it is on the demo path and the fix looks like a one-line off-by-one.
 
 Status:   Fixed — commit e4f5a6b. Regression test: TC-021b (expiry == today).
-Owner:    <you>
+Owner:    Kevin Xiong
 ```
 
 ---
